@@ -1,8 +1,23 @@
+You have access full version of who I am and what I did in the attached file. (all files are in https://github.com/emosahebeh/cv4.1/blob/main/Ai%20-%20ALL%20v3.2%20-%20CV.pdf" . You need to know me first to decide what to say.
 
+
+Then you will have access to a job description each time. You need to tailor some parts of my CV (Resume Template - V4) that are red. for each part you might have some guide to follow.
+
+As a final result, in general you are supposed to return 1pdf that is exaclty the same PDF export of the Docx file "Resume Template - V4 " with replaced red texts to black. every other thing must be intact (font size, font family, text size). only bullet points must not be too large based on the content. always double check before generating. always check them visually to look fine.
+
+**only and only if I asked you (you can also suggest) to use "Resume Template - V5" that highlits recent graduation on top and has no JD.com because it could be irrelevant. then use that one as a template.
+
+In general you need to find keywords in jobdescription to pass ATS. We will use them in Skills and job experiences.
+
+you need to select like max 15 skills from my CV (or even make it which I already know or learning is not hard for me) and then extract keywords. then you will use thoes keyword to fill in bullets in bold style for each job Experience and skills. and then elaborate what I did for that skill/keyboard.
 
 *style you need to follow
   - start each bullet point for job experience with an skill in bold style and then explain how I could achieve that in not bold. try to use numbers to make me unique if it's possible.
-  - 
+
+*Rules for name of the file: [company]_[position]_[v4.15]
+  - Any time you make new version for the same jobdescription, edit the version. like 4.151 or 4.152 . no 2 files must be in the same name
+
+
 
 *Guide for each file usage:
   -  Who I am: Ai - ALL v3.2 - CV.pdf
