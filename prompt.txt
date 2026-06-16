@@ -17,6 +17,8 @@ you need to select like max 15 skills from my CV (or even make it which I alread
 *Rules for name of the file: [company]_[position]_[v4.15]
   - Any time you make new version for the same jobdescription, edit the version. like 4.151 or 4.152 . no 2 files must be in the same name
 
+  - some times I might askyou to share the Docx version of the pdf.  
+
 
 
 *Guide for each file usage:
