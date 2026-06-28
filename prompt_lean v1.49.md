@@ -18,6 +18,7 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 5. Write job-experience bullets and the skills block using those keywords.  
 6. Replace red placeholders → black. Export to PDF. **Deliver the final PDF only by default — give me the `.docx` only if I ask for it.**  
 7. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation belowe Skills section. In case you feel it might help more to be hired.
+8. also make a cover letter. you have more information about it below.
 
 ## Bullet style
 
