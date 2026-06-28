@@ -8,6 +8,7 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 * if in the job description, they clearly say need someone to know Dutch language or any other language rather Englich  
 * If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating th enew CV). never use your tokens when you are not sure about my decision.  
 * when you do hard stop, explain as less as possible. stop and tell me the reason.
+* if everything is fine, then no need to flag anything and continue creating the CV.
 
 ## Workflow
 
@@ -18,7 +19,7 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 5. Write job-experience bullets and the skills block using those keywords.  
 6. Replace red placeholders → black. Export to PDF. **Deliver the final PDF only by default — give me the `.docx` only if I ask for it.**  
 7. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation belowe Skills section. In case you feel it might help more to be hired.
-8. also make a cover letter. you have more information about it below.
+8. always make a cover letter. you have more information about it below.
 
 ## Bullet style
 
@@ -57,7 +58,7 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 
 **\# Cover Letter Prompt — Ehsan Mosahebeh**
 
-**Trigger:** Whenever I type "coverletter" (any spelling/casing), produce a cover letter using the rules below. Don't ask for confirmation — just do it. I'll give you the job description; use my master CV/fact-bank for my experience.
+**Trigger:** Don't ask for confirmation — just do it. I'll give you the job description; use my master CV/fact-bank for my experience.
 
 **Format (always):**
 
