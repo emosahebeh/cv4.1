@@ -1,3 +1,7 @@
+Business brain, technical hands — open to roles
+Quick intro from a candidate worth a look
+-------------------
+
 Hi [Name],
 
 Not chasing one specific role — more hoping to get into your network for the right fit. Business + technical background (BA, data, Power BI, web/automation), and I like solving messy operational problems.
