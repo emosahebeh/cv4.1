@@ -1,5 +1,4 @@
 Business brain, technical hands — open to roles
-Quick intro from a candidate worth a look
 -------------------
 
 Hi [Name],
