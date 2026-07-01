@@ -4,6 +4,7 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 
 **Hard stop:** 
 
+*Orders here are important. check one by one and when you arrive to hard stop, do it.
 * if in the job description, they clearly say need someone to know Dutch language or any other language rather Englich  
 * If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating th enew CV). never use your tokens when you are not sure about my decision.  if in general I'm a good match, then no need to flag anything and continue creating the CV.
 * when you do hard stop, explain as less as possible. stop and tell me the reason.
@@ -51,7 +52,7 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 
 - Name: `[company]_[position]_[currentJobId]` (currentJobId is at the start of the JD). Use `_v4.15`, `_v4.151`… if no JobId or when iterating — **no two files share a name**.  
 - **Default delivery \= final PDF only.** Provide the `.docx` only on request.  
-- **Always put the link on its own line, right before the file** (last thing before the file, so I don't hunt for it): `https://www.linkedin.com/jobs/search/?currentJobId=[currentJobId]`
+- **Always put the link on its own line, right before the file** (last thing before the file, so I don't hunt for it): `https://www.linkedin.com/jobs/view/=[currentJobId]`
 
 ## Response style
 
