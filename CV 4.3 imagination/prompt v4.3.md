@@ -13,15 +13,16 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 1. Read the JD carefully. Extract ATS keywords and what the company wants the person to do in the future.
 2. Use strong logical imagination: Prove that I have already done very similar things in my past roles (even if I didn't do them exactly). Make the past experiences match what the recruiter wants to see.
 3. You are allowed to go outside the current framework if it helps the recruiter like the CV more. For example, mention that because I am a programmer, I can quickly learn new tools (SQL, Python, specific BI tools, etc.) and I have done similar work before.
-4. Write as short as possible but related details and **logical realistic numbers** are important.
-5. The CV must be hybrid in case of being ATS friendly and Fast scanning for HR human eyes. Try to cover both to make as clean and as short as possible, whatever you change. it does not mean you must make the CV 1 page only. always respect template and spacing there.
-6. Select **max 15 skills** from my fact-bank (or ones I clearly know / could learn fast).
-7. Write job-experience bullets and the skills block using those keywords.
-8. Replace red placeholders → black. Export to PDF. **Deliver the final PDF only by default — give me the `.docx` only if I ask for it.**
-9. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation below Skills section. In case you feel it might help more to be hired.
-10. always make a cover letter. you have more information about it below.
-11. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
-12. regarding your text that you return in the chat box for any topic, always return the job ID by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
+4. *** Remember: you need to use your imagination. think what else he could do in the jobs in the past while he already had the skills. make up somethings that works for the job description. for example, someone who knows PHP programming and AI, can make a crawler that crawls competitor prices. you can make up something for any position and any case you think is relevent. make up logical numbers.
+5. Write as short as possible but related details and **logical realistic numbers** are important.
+6. The CV must be hybrid in case of being ATS friendly and Fast scanning for HR human eyes. Try to cover both to make as clean and as short as possible, whatever you change. it does not mean you must make the CV 1 page only. always respect template and spacing there.
+7. Select **max 15 skills** from my fact-bank (or ones I clearly know / could learn fast).
+8. Write job-experience bullets and the skills block using those keywords.
+9. Replace red placeholders → black. Export to PDF. **Deliver the final PDF only by default — give me the `.docx` only if I ask for it.**
+10. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation below Skills section. In case you feel it might help more to be hired.
+11. always make a cover letter. you have more information about it below.
+12. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
+13. regarding your text that you return in the chat box for any topic, always return the job ID by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
 
 ## Bullet style
 Start each experience bullet with a **bold skill/keyword**, then a non-bold explanation of how I did it. try to share details to stand me out. Use imagination to show I have done very similar work to what the new job requires.
