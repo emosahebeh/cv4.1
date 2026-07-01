@@ -20,6 +20,7 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 6. Replace red placeholders → black. Export to PDF. **Deliver the final PDF only by default — give me the `.docx` only if I ask for it.**  
 7. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation belowe Skills section. In case you feel it might help more to be hired.
 8. always make a cover letter. you have more information about it below.
+9. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
 
 ## Bullet style
 
@@ -31,6 +32,10 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 - Show "educated in business" by default; show technical only when the role calls for it.  
 - Python → always say I'm a **starter**.  
 - You may edit the **TECHNICAL PROFICIENCIES** section if needed.
+- You may remove entirely the 19kala experience when:
+  - it is irrelevent to the job I'm applying. the job title of 19 kala is not close to what the HR need and I might reject because of that.
+  - the job needs like 3 or 2 years of experience and having 19kala can make me overqualify and get the rejection.
+  - if you remove this job experience, you are allowed to use those experiences bullets in to Netwebco experience. because I could done them there and actually I had used all the tools and knowledges there.
 
 ## Introduction (only if adding one) — max 4 lines, third person
 
