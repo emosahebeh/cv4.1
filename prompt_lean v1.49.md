@@ -21,6 +21,7 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 7. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation belowe Skills section. In case you feel it might help more to be hired.
 8. always make a cover letter. you have more information about it below.
 9. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
+10. regardign your text that you return in the chat box for any topic, always return the job ID by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
 
 ## Bullet style
 
