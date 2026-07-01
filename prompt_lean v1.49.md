@@ -4,11 +4,10 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 
 **Hard stop:** 
 
-* if `Resume Template - V4.docx` is NOT present, stop and ask me to share it. and expliain nothing else.  
 * if in the job description, they clearly say need someone to know Dutch language or any other language rather Englich  
-* If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating th enew CV). never use your tokens when you are not sure about my decision.  
+* If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating th enew CV). never use your tokens when you are not sure about my decision.  if in general I'm a good match, then no need to flag anything and continue creating the CV.
 * when you do hard stop, explain as less as possible. stop and tell me the reason.
-* if everything is fine, then no need to flag anything and continue creating the CV.
+* if `Resume Template - V4.docx` is NOT present, stop and ask me to share it. and expliain nothing else. 
 
 ## Workflow
 
