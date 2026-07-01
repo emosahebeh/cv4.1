@@ -32,7 +32,7 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 - Show "educated in business" by default; show technical only when the role calls for it.  
 - Python → always say I'm a **starter**.  
 - You may edit the **TECHNICAL PROFICIENCIES** section if needed.
-- You may remove entirely the 19kala experience when:
+- You may remove entirely the 19kala experience when (even only one of them is the case, go for it):
   - it is irrelevent to the job I'm applying. the job title of 19 kala is not close to what the HR need and I might reject because of that.
   - the job needs like 3 or 2 years of experience and having 19kala can make me overqualify and get the rejection.
   - if you remove this job experience, you are allowed to use those experiences bullets in to Netwebco experience. because I could done them there and actually I had used all the tools and knowledges there.
