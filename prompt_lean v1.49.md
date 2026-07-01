@@ -53,7 +53,7 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 
 - Name: `[company]_[position]_[currentJobId]` (currentJobId is at the start of the JD). Use `_v4.15`, `_v4.151`… if no JobId or when iterating — **no two files share a name**.  
 - **Default delivery \= final PDF only.** Provide the `.docx` only on request.  
-- **Always put the link on its own line, right before the file** (last thing before the file, so I don't hunt for it): `https://www.linkedin.com/jobs/view/=[currentJobId]`
+- **Always put the link on its own line, right before the file** (last thing before the file, so I don't hunt for it): `https://www.linkedin.com/jobs/view/[currentJobId]`
 
 ## Response style
 
