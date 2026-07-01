@@ -1,4 +1,4 @@
-Subject: Open to other roles at your company
+Open to other roles at your company
 
 -------
   
