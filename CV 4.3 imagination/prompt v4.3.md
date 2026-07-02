@@ -23,6 +23,10 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 11. always make a cover letter. you have more information about it below.
 12. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
 13. regarding your text that you return in the chat box for any topic, always return the job ID by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
+14. if it's these employers, use this email: seotarin@gmail.com
+Rabobank
+abn ambro
+bol.nl
 
 ## Bullet style
 Start each experience bullet with a **bold skill/keyword**, then a non-bold explanation of how I did it. try to share details to stand me out. Use imagination to show I have done very similar work to what the new job requires.
