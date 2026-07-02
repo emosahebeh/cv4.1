@@ -2,7 +2,7 @@
 
 **Contact:** Arnhem, NL (ready to relocate) | \+31 647553193 | [emosahebeh@gmail.com](mailto:emosahebeh@gmail.com) | linkedin.com/in/ehsan-mosahebeh **Tagline:** E-commerce & Category Management | Digital Marketing & Analytics
 
-Note: this is a reference fact-bank, not the final CV. Every unique metric/achievement is kept; redundant phrasings removed. Pull keywords \+ bullets from here, then write into Template V4.
+Note: this is a reference , not the final CV. 
 
 ---
 
@@ -21,16 +21,16 @@ Note: this is a reference fact-bank, not the final CV. Every unique metric/achie
 
 ## Experience
 
-### Category Analytics & Commercial Operations Intern — Joybuy, Rotterdam | Apr 2026 – Present
+### Category Analytics & Commercial Operations Associate — Joybuy, Rotterdam | Apr 2026 – Jul 2026
 
 *JD.com's European online retail business. Originally hired by the D2C affiliate & partnerships team to support performance tracking, reporting automation and data-driven campaign coordination across European markets during the Wittenborg MBA.*
 
 - End-to-end product onboarding: coordinated with Beijing team \+ direct supplier comms for accurate, timely listings.  
 - Operational backbone of category team: task tracking, priority alignment across managers, day-to-day execution across internal \+ external stakeholders.  
-- Built **AI-assisted sales forecasting model (\~70% accuracy)** from historical pricing \+ units-sold data to predict campaign performance and support commercial planning.  
+- Built **AI-assisted sales forecasting model (\~80% accuracy)** from historical pricing \+ units-sold data to predict campaign performance and support commercial planning.  
 - Owned **full rebate process end-to-end**: consolidated data across all category managers, calculated real rebate values, submitted figures, tracked payments vs negotiated terms; standardizing the workflow to be repeatable \+ transferable.
 
-### Affiliate & Performance Marketing Intern — Philips DA (Versuni), Amsterdam | Aug 2024 – Feb 2025
+### Affiliate & Performance Marketing Intern — Philips DA (Versuni), Amsterdam | Aug 2024 – Mar 2025
 
 - Collaborated with **18 strategic affiliate partners → \+36% YoY revenue (2024)** via data-driven campaign planning \+ execution.  
 - Coordinated **19 Black Week campaigns** with teams \+ partners: assortments, discounts, vouchers, payments during peak season.  
