@@ -21,16 +21,14 @@ Note: this is a reference , not the final CV.
 
 ## Experience
 
-### Category Analytics & Commercial Operations Associate — Joybuy, Rotterdam | Apr 2026 – Jul 2026
-
-*JD.com's European online retail business. Originally hired by the D2C affiliate & partnerships team to support performance tracking, reporting automation and data-driven campaign coordination across European markets during the Wittenborg MBA.*
+### Joybuy
 
 - End-to-end product onboarding: coordinated with Beijing team \+ direct supplier comms for accurate, timely listings.  
 - Operational backbone of category team: task tracking, priority alignment across managers, day-to-day execution across internal \+ external stakeholders.  
 - Built **AI-assisted sales forecasting model (\~80% accuracy)** from historical pricing \+ units-sold data to predict campaign performance and support commercial planning.  
 - Owned **full rebate process end-to-end**: consolidated data across all category managers, calculated real rebate values, submitted figures, tracked payments vs negotiated terms; standardizing the workflow to be repeatable \+ transferable.
 
-### Affiliate & Performance Marketing Intern — Philips DA (Versuni), Amsterdam | Aug 2024 – Mar 2025
+### Philips DA (Versuni)
 
 - Collaborated with **18 strategic affiliate partners → \+36% YoY revenue (2024)** via data-driven campaign planning \+ execution.  
 - Coordinated **19 Black Week campaigns** with teams \+ partners: assortments, discounts, vouchers, payments during peak season.  
@@ -38,9 +36,7 @@ Note: this is a reference , not the final CV.
 - Supported partner ROI via KPI analysis (top SKUs, regional trends, discount effectiveness); co-delivered Q3/Q4 QBRs with results \+ recommendations.  
 - Ran/tracked digital campaigns across European markets; monthly partner reports in Power BI \+ Excel; close work with marketing \+ sales for accurate data tracking.
 
-### Digital Data Analyst & Performance Specialist — NetWebCo, Tehran | Feb 2021 – Sep 2023
-
-*Mid-size agency, Magento e-commerce services; website performance analysis \+ data-driven optimization for multiple clients.*
+### NetWebCo
 
 - Executed SEO strategies \+ comprehensive audits (technical / content / performance) across multiple clients; delivered prioritized improvements.  
 - Investigated \+ resolved technical SEO issues (indexing, crawling, site performance, implementation errors) with developers.  
@@ -49,9 +45,9 @@ Note: this is a reference , not the final CV.
 - Programmed WordPress plugins for SEO schemas, blog ad exhibition, automatic WooCommerce attribute corrections.  
 - Keyword research \+ content planning for e-commerce; link-building/outreach; client consulting on digital marketing \+ SEO; data-driven campaign decisions.
 
-### SEO & Website Optimization Specialist — 19kala.com, Tehran | Dec 2019 – Feb 2021
+### 19kala
 
-- **Propelled organic traffic 30,000 → 190,000 monthly visits in 9 months.**  
+- Propelled organic traffic 30,000 → 190,000 monthly visits in 9 months.
 - Built lightweight **internal task-management tool (PHP \+ JavaScript)** for the SEO team: workflow organization, responsibility tracking, transparency.  
 - Implemented structured task logic (priorities, roles, progress tracking) supporting a **20+ member SEO team**.  
 - Analyzed \+ resolved technical SEO issues in Google Search Console.  
