@@ -15,7 +15,7 @@ Best,
 
 Hi [Name],
 
-Wanted to introduce myself — I bring a business + technical profile (MBA plus hands-on Power BI, SQL, APIs, automation), so I fit a few different areas:
+Hope you're well! Could we have a quick chat? Reaching out to get on your radar. — I bring a business + technical profile (MBA plus hands-on Power BI, SQL, APIs, automation), so I fit a few different areas:
 
 • Business Analysis
 • Data & Analytics
@@ -24,8 +24,35 @@ Wanted to introduce myself — I bring a business + technical profile (MBA plus 
 • Affiliate / Performance Marketing
 • Web Development & Automation
 
-Do you recruit specifically in any of these? Let me know which, and I'll send a CV tailored to that area.
-
 I'm also easy to place: zoekjaar permit (no sponsorship, immediate start), and the reduced salary threshold (~€3,122/month) keeps me below standard rates if sponsorship ever applies.
 
+Could we have a quick call or chat? 
++31 647553193
+
 Best,
+
+----------
+
+Here’s the updated version with your edits woven in naturally—still conversational, not corporate, and designed to get a reply:
+
+---
+
+Hi ***,
+
+Hope you're having a good week!
+
+I came across your profile and thought I’d say hello—especially since you're plugged into the Dutch job market. I'm currently exploring my next opportunity and figured it’s worth reaching out to someone like you who really knows the landscape.
+
+A bit about me: I’ve got a hybrid background—MBA plus hands-on work with data, automation, and digital strategy. That means I can wear a few different hats depending on what your clients need, whether it’s in analytics, e-commerce, marketing, or even development.
+
+On the practical side—I'm currently on a zoekjaar permit, so no sponsorship needed right now, and I can start immediately. That said, I will need sponsorship next year, but I'm flexible: for the right role, I'm comfortable with the reduced salary threshold of €3,122/month, which keeps things straightforward from a cost perspective too.
+
+No pressure at all—just wondering if you’d be open to a quick 5-min chat sometime next week? I’d love to hear what you’re seeing in the market and if any of your current roles might be a fit.
+
+Let me know what you think—and if not, totally understand!
+
+Cheers,
+
+Ehsan
++31 647553193
+emosahebeh@gmail.com
