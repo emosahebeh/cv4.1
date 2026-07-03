@@ -31,9 +31,6 @@ Could we have a quick call or chat?
 
 Best,
 
-----------
-
-Here’s the updated version with your edits woven in naturally—still conversational, not corporate, and designed to get a reply:
 
 ---
 
@@ -56,3 +53,4 @@ Cheers,
 Ehsan
 +31 647553193
 emosahebeh@gmail.com
+
