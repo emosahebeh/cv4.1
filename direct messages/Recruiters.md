@@ -34,7 +34,7 @@ Best,
 
 -------- Quick question – worth a chat?
 
-Hi ***,
+Hi XXXXXXX,
 
 Hope you're having a good week!
 
@@ -44,7 +44,7 @@ A bit about me: I’ve got a hybrid background—MBA plus hands-on work with dat
 
 On the practical side—I'm currently on a zoekjaar permit, so no sponsorship needed right now, and I can start immediately. That said, I will need sponsorship next year, but I'm flexible: for the right role, I'm comfortable with the reduced salary threshold of €3,122/month, which keeps things straightforward from a cost perspective too.
 
-No pressure at all—just wondering if you’d be open to a quick 5-min chat sometime next week? I’d love to hear what you’re seeing in the market and if any of your current roles might be a fit.
+No pressure at all—just wondering if you’d be open to a quick 5-min chat sometime next week? OR can you refer me to someone that can help in your team? I’d love to hear what you’re seeing in the market and if any of your current roles might be a fit.
 
 Let me know what you think—and if not, totally understand!
 
