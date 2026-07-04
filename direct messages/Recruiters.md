@@ -54,3 +54,6 @@ Ehsan
 +31 647553193
 emosahebeh@gmail.com
 
+-----------
+Hi XXX! Hope all is well. I'm an MBA with hands-on data/automation/digital experience. On zoekjaar—comfortable with €3,122. Open to Analytics, SEO, Marketing, Category, Dev in NL. Open to a brief chat or referral? Much appreciated! Ehsan +31647553193
+
