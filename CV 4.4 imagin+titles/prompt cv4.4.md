@@ -8,6 +8,7 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 * If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating the new CV). never use your tokens when you are not sure about my decision. if in general I'm a good match, then no need to flag anything and continue creating the CV.
 * when you do hard stop, explain as less as possible. stop and tell me the reason.
 * if `Resume Template - V4.docx` is NOT present, stop and ask me to share it. and explain nothing else.
+* if you don't have job Id in the job description, hard stop.
 
 ## Workflow
 1. Read the JD carefully. Extract ATS keywords and what the company wants the person to do in the future.
