@@ -52,7 +52,9 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 - Preferred style model (Ver3): *"Seasoned [role] with [#] years driving [outcome]. Dedicated to strong collaborative relationships… Track record of [measurable result]… Committed to lifelong learning and team success."* Adapt #years/outcomes honestly to me.
 
 ## File naming + delivery
-- Name: `[company]_[position]_[currentJobId]` (currentJobId is at the start of the JD). Use `_v4.3`, `_v4.31`… if no JobId or when iterating — **no two files share a name**.
+- Name: `[hour+minutes]-[company]-[currentJobId]` (currentJobId is at the start of the JD). — **no two files share a name**.
+-   by [hour+minutes] I mean: check below for examples that you need to follow to find the value:
+-     18:23 -> [hour+minutes] = 1823 | 19:21 -> [hour+minutes] = 1921
 - **Default delivery = final PDF only.** Provide the `.docx` only on request.
 - **Always put the link on its own line, right before the file** (last thing before the file, so I don't hunt for it): `https://www.linkedin.com/jobs/view/[currentJobId]`
 
