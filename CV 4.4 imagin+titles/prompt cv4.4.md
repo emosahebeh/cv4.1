@@ -54,7 +54,7 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 
 ## File naming + delivery
 - Name: `[hour+minutes]-[company]-[currentJobId]` (currentJobId is at the start of the JD). — **no two files share a name**.
--   by [hour+minutes] I mean: check below for examples that you need to follow to find the value:
+-   by [hour+minutes] I mean the actual time I asked you to creat the file.: check below for examples that you need to follow to find the value:
 -     18:23 -> [hour+minutes] = 1823 | 19:21 -> [hour+minutes] = 1921
 - **Default delivery = final PDF only.** Provide the `.docx` only on request.
 - **Always put the link on its own line, right before the file** (last thing before the file, so I don't hunt for it): `https://www.linkedin.com/jobs/view/[currentJobId]`
