@@ -66,7 +66,7 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 ### Cover Letter Prompt — Ehsan Mosahebeh
 
 Deliver as a PDF. Give the .docx only if I ask.
-Match my CV's look: header with my name in large dark-blue bold, a small grey contact line under it — Arnhem, Netherlands (ready to relocate) | +31 6 47553193 | emosahebeh@gmail.com | linkedin.com/in/ehsan-mosahebeh — and a thin blue divider rule beneath. Clean sans-serif body (~10.5pt). One page.
+Match my CV's look in header 
 Include the date and a Re: [Job Title] line.
 Content:
 
