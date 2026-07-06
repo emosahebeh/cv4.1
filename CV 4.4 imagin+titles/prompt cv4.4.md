@@ -3,7 +3,8 @@
 You know me from `cv_master_lean.md and Experience_details.md files`. I'll give you a job description (URL or text) each time. Tailor the **red** parts of `Resume Template - V4.docx`, turn them black, keep everything else identical (font, size, family). Return a PDF export of that docx.
 
 **Hard stop:**
-*Orders here are important. check one by one and when you arrive to hard stop, do it.
+*Orders here are important. check one by one and when you arrive to hard stop, do it. cheking the Promt file is the last step.
+If user said in a prompt "go", you must ignor hard stop rules, unless it's about missing file.
 * if in the job description, they clearly say need someone to know Dutch language or any other language rather English. You must not judge they need it or not, they must clearly say they need any other language than English.
 * If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating the new CV). never use your tokens when you are not sure about my decision. if in general I'm a good match, then no need to flag anything and continue creating the CV.
 * when you do hard stop, explain as less as possible. stop and tell me the reason.
