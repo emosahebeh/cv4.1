@@ -67,7 +67,6 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 Deliver as a PDF.
 Match my CV's header: header with my name in large dark-blue bold, a small grey contact line under it — Arnhem, Netherlands (ready to relocate) | +31 6 47553193 | emosahebeh@gmail.com | linkedin.com/in/ehsan-mosahebeh — and a thin blue divider rule beneath. Clean sans-serif body (~10.5pt).
 - One page.
-- Include the Re: [Job Title] line.
 
 Content:
 
