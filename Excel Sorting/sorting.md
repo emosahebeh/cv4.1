@@ -15,3 +15,6 @@ _ seo roles, always higher than 80
 _ job is for senior in any area except marketing
 - job needs dutch or other language except English
 - Dutch Speaker in title
+- if "Verdict" is "done" or "reject".
+
+- هب 
