@@ -37,6 +37,7 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 - You may edit the **TECHNICAL PROFICIENCIES** section if needed.
 - You may remove entirely the 19kala experience when (even only one of them is the case, go for it):
   - it is irrelevant to the job I'm applying. the job title of 19 kala is not close to what the HR need and I might reject because of that.
+  - you can also remove newebco if it makes me overqualify for the position or makes me loos the jub instead of geting the job.
   - the job needs like 3 or 2 years of experience and having 19kala can make me overqualify and get the rejection.
   - if you remove this job experience, you are allowed to use those experiences bullets in to Netwebco experience. because I could done them there and actually I had used all the tools and knowledges there.
 
