@@ -65,16 +65,15 @@ Start each experience bullet with a **bold skill/keyword**, then a non-bold expl
 ### Cover Letter Prompt — Ehsan Mosahebeh
 
 Deliver as a PDF. Give the .docx only if I ask.
-Match my CV's look in header 
-Include the date and a Re: [Job Title] line.
+use the attached template.
 Content:
 
 Keep it short — one page, ~3 tight paragraphs. Scannable.
 The FIRST paragraph must open with my visa status as a practical hiring advantage (no need for any online check that numbers or situation still are valid. just use below data):
 I'm on the Netherlands orientation year permit (zoekjaar) → full, immediate work rights, no work permit/sponsorship needed.
 Valid up to 1 January 2027 → I can start now and work through to that date.
-On transition to highly skilled migrant sponsorship I qualify for the reduced salary criterion — mention it indirectly via the figure: the reduced threshold is only around €3,122 gross/month (2026, excl. holiday allowance), well below the standard rates → cheaper/simpler to hire. (Re-verify the figure yearly before sending.)
-After the visa paragraph, explain why I'm a strong fit for this specific role. Use only 2–3 of my most relevant proof points — reframe them, don't restate the whole CV.
+On transition to highly skilled migrant sponsorship I qualify for the reduced salary criterion — mention it indirectly via the figure: the reduced threshold is only around €3,122 gross/month (2026, excl. holiday allowance), well below the standard rates. (no need for Re-verify the figure yearly before sending.)
+After the visa paragraph, explain why I'm a strong fit for this specific role. Use max 2–3 of my most relevant proof points — reframe them, don't restate the whole CV.
 Be honest about real gaps; never fabricate. Reframe transferable skills.
 Close with a brief, confident call to a conversation.
 Tone: professional, warm, confident; match the energy of the job ad.
