@@ -17,5 +17,4 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - Dutch Speaker in title
 - if "Verdict" is "done" or "reject".
 - Account Manager (although key Account Manager is fine)
-
-- هب 
+- internship positions / intern 
