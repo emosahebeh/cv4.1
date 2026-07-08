@@ -98,7 +98,7 @@ Hard limits — never cross:
 ## The four roles — umbrella (LinkedIn) + approved narrowing menu
 
 **1. Joybuy (JD.com Europe) — Rotterdam | Apr 2026 – Jul 2026** *(4-month program, keep "Associate")*
-- Umbrella: `Category Analytics & Commercial Operations Associate`
+- Umbrella: Current title in the template
 - Data/analytics JD → `Category & Commercial Analyst` · `Commercial Operations Analyst` · `Category Analytics Associate`
 - Marketing JD → `Category & Campaign Operations Associate`
 - **Supply-chain JD** → `Category & Supply Operations Associate` · `Demand Planning Associate` · `Commercial & Supply Chain Associate` *(demand forecasting + OOS prediction + supplier mgmt are real here — strongest supply-chain anchor)*
@@ -106,14 +106,14 @@ Hard limits — never cross:
 - SEO JD → *no good fit — keep umbrella*
 
 **2. Philips DA (Versuni) — Amsterdam | Aug 2024 – Mar 2025** *(MBA internship, ALWAYS keep "Intern")*
-- Umbrella: `Affiliate & Performance Marketing Intern`
+- Umbrella: Current title in the template
 - Marketing JD → `Performance Marketing Intern` · `Affiliate Marketing Intern`
 - Data/analytics JD → `Performance Marketing Analyst (Intern)` · `Marketing Analytics Intern`
 - **Business-commercial JD** → `Commercial Partnerships Intern` · ⚠️`Business Development Intern (Affiliate)` *(BD is the stretchier one — only if partner budget/negotiation is central to the JD)*
 - **Supply-chain JD** → *no good fit — keep umbrella*
 
 **3. NetWebCo | Feb 2021 – Sep 2023** *(agency, Magento e-commerce — my long anchor role)*
-- Umbrella: `Digital Data Analyst & Performance Specialist`
+- Umbrella: Current title in the template
 - SEO JD → `SEO & Digital Marketing Specialist` · `Technical SEO Specialist`
 - Data/analytics JD → `Digital / Web Analytics Specialist` · `Digital Data Analyst`
 - Marketing JD → `Digital Marketing & Performance Specialist` · `PPC & SEO Specialist`
@@ -122,7 +122,7 @@ Hard limits — never cross:
 - **Supply-chain JD** → *weak fit — keep umbrella unless the JD centres on the price-monitoring / feed-automation work*
 
 **4. 19kala | Dec 2019 – Feb 2021** *(OpenCart e-commerce, in-house)*
-- Umbrella: `SEO & Website Optimization Specialist`
+- Umbrella: Current title in the template
 - SEO JD → `Technical SEO Specialist` · `SEO Specialist`
 - Data/analytics JD → `SEO & Analytics Specialist`
 - Web/dev JD → `SEO Specialist & In-house Developer (PHP/JS)`
