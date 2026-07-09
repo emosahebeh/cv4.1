@@ -101,7 +101,7 @@ Hard limits — never cross:
 
 **1. Joybuy (JD.com Europe) — Rotterdam | Apr 2026 – Jul 2026** *(4-month program, keep "Associate")*
 - Umbrella: Current title in the template
-- Data/analytics JD → `Category & Commercial Analyst` · `Commercial Operations Analyst` · `Category Analytics Associate`
+- Data/analytics JD → `Category & Commercial Analytics Associate` · `Commercial Operations Analyst` · `Category Analytics Associate`
 - Marketing JD → `Category & Campaign Operations Associate`
 - **Supply-chain JD** → `Category & Supply Operations Associate` · `Demand Planning Associate` · `Commercial & Supply Chain Associate` *(demand forecasting + OOS prediction + supplier mgmt are real here — strongest supply-chain anchor)*
 - **Business-commercial JD** → `Commercial Operations Associate` · `Business Operations Associate` · `Category & Commercial Associate`
@@ -109,8 +109,8 @@ Hard limits — never cross:
 
 **2. Philips DA (Versuni) — Amsterdam | Aug 2024 – Mar 2025** *(MBA internship, ALWAYS keep "Intern")*
 - Umbrella: Current title in the template
-- Marketing JD → `Performance Marketing Intern` · `Affiliate Marketing Intern`
-- Data/analytics JD → `Performance Marketing Analyst (Intern)` · `Marketing Analytics Intern`
+- Marketing JD → `Affiliate Performance Marketing Intern` · `Affiliate Marketing Intern`
+- Data/analytics JD → ` Affiliate Performance Marketing Analyst (Intern)` · `Affiliate Marketing Analytics Intern`
 - **Business-commercial JD** → `Commercial Partnerships Intern` · ⚠️`Business Development Intern (Affiliate)` *(BD is the stretchier one — only if partner budget/negotiation is central to the JD)*
 - **Supply-chain JD** → *no good fit — keep umbrella*
 
