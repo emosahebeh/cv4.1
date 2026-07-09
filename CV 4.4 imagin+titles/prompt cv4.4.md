@@ -10,6 +10,7 @@ If user said in a prompt "go", you must ignor hard stop rules, unless it's about
 * when you do hard stop, explain as less as possible. stop and tell me the reason.
 * if `Resume Template - V4.docx` is NOT present, stop and ask me to share it. and explain nothing else.
 * if you don't have job Id in the job description, hard stop.
+* if a company will not do my sponsership in the future.
 
 ## Workflow
 1. Read the JD carefully. Extract ATS keywords and what the company wants the person to do in the future.
