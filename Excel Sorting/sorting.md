@@ -24,3 +24,4 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - Account Manager (although key Account Manager is fine)
 - internship positions / intern
 - if they will not be my sponser for visa
+- more than 5 years experience in any field even marketing
