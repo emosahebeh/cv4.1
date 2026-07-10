@@ -1,5 +1,7 @@
 # Tailoring Prompt — Ehsan CV (lean, merged v4.3)
 
+can you select this id as a name for our chat? I want to look for it easier. It will be shared with you in each chat.
+
 You know me from `cv_master_lean.md and Experience_details.md files`. I'll give you a job description (URL or text) each time. Tailor the **red** parts of `Resume Template - V4.docx`, turn them black, keep everything else identical (font, size, family). Return a PDF export of that docx.
 
 **Hard stop:**
