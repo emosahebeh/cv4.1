@@ -13,6 +13,7 @@ _ SEO roles, always higher than 70
 - Analyst or analytics job, higher that 80
 - junior/traineeship is always higher that 60
 - if the language af the job description is English, it must always have higher value than the dutch ones.
+- older submitted job has lower rate.
 
 
 
@@ -25,3 +26,4 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - internship positions / intern
 - if they will not be my sponser for visa
 - more than 5 years experience in any field even marketing
+- publish date is more than 1 month
