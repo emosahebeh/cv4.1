@@ -25,12 +25,13 @@ If user said in a prompt "go", you must ignor hard stop rules, unless it's about
 7. Select **max 15 skills** from my fact-bank (or ones I clearly know / could learn fast).
 8. Write job-experience bullets and the skills block using those keywords.
 9. Replace red placeholders → black. Export to PDF. **Deliver the final PDF only by default — give me the `.docx` only if I ask for it.**
-10. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation below Skills section. you can remove 19kala if the role is traineeship, junior level OR they need only 3 years experience max and showing 19kala make me over qualify. you can also downgraid the role in Netweb. In case you feel it might help more to be hired.
-11. always make a cover letter. you have more information about it below.
-12. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
-13. regarding your text that you return in the chat box for any topic, always return the job ID by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
-14. if my bachelor degree in Civil is irrelevant to the position, please remove it. only my master is enough.
-15. all the red texts must be black after optimization.
+10. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation below Skills section.
+11.  you have to remove 19kala if the role is traineeship, junior level OR they need only 3 years experience max and showing 19kala make me over qualify. you can also downgraid the role in Netweb. In case you feel it might help more to be hired.
+12. always make a cover letter. you have more information about it below.
+13. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
+14. regarding your text that you return in the chat box for any topic, always return the job ID by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
+15. if my bachelor degree in Civil is irrelevant to the position, please remove it. only my master is enough.
+16. all the red texts must be black after optimization.
 
 ## Bullet style
 Start each experience bullet with a **bold skill/keyword**, then a non-bold explanation of how I did it. try to share details to stand me out. Use imagination to show I have done very similar work to what the new job requires.
