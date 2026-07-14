@@ -102,19 +102,19 @@ Hard limits — never cross:
 
 ## The four roles — umbrella (LinkedIn) + approved narrowing menu
 
-**1. Joybuy (JD.com Europe) — Rotterdam | Apr 2026 – Jul 2026** *(4-month program, keep "Associate")*
+**1. Joybuy (JD.com Europe) — Rotterdam | Apr 2026 – Jul 2026** *(4-month program, keep "Associate" and "FMCG" )*
 - Umbrella: Current title in the template
-- Data/analytics JD → `Category & Commercial Analytics Associate` · `Commercial Operations Analyst` · `Category Analytics Associate`
-- Marketing JD → `Category & Campaign Operations Associate`
-- **Supply-chain JD** → `Category & Supply Operations Associate` · `Demand Planning Associate` · `Commercial & Supply Chain Associate` *(demand forecasting + OOS prediction + supplier mgmt are real here — strongest supply-chain anchor)*
-- **Business-commercial JD** → `Commercial Operations Associate` · `Business Operations Associate` · `Category & Commercial Associate`
+- Data/analytics JD → `FMCG Category & Commercial Analytics Associate` · `FMCG Commercial Operations Analyst` · `FMCG Category Analytics Associate`
+- Marketing JD → `FMCG Category & Campaign Operations Associate`
+- **Supply-chain JD** → `FMCG Category & Supply Operations Associate` · `FMCG Demand Planning Associate` · `FMCG Commercial & Supply Chain Associate` *(demand forecasting + OOS prediction + supplier mgmt are real here — strongest supply-chain anchor)*
+- **Business-commercial JD** → `FMCG Commercial Operations Associate` · `FMCG Business Operations Associate` · `FMCG Category & Commercial Associate`
 - SEO JD → *no good fit — keep umbrella*
 
 **2. Philips DA (Versuni) — Amsterdam | Aug 2024 – Mar 2025** *(MBA internship, ALWAYS keep "Intern")*
 - Umbrella: Current title in the template
 - Marketing JD → `Affiliate Performance Marketing Intern` · `Affiliate Marketing Intern`
 - Data/analytics JD → ` Affiliate Performance Marketing Analyst (Intern)` · `Affiliate Marketing Analytics Intern`
-- **Business-commercial JD** → `Commercial Partnerships Intern` · ⚠️`Business Development Intern (Affiliate)` *(BD is the stretchier one — only if partner budget/negotiation is central to the JD)*
+- **Business-commercial JD** → `Commercial Partnerships Intern (Affiliate)` · ⚠️`Business Development Intern (Affiliate)` *(BD is the stretchier one — only if partner budget/negotiation is central to the JD)*
 - **Supply-chain JD** → *no good fit — keep umbrella*
 
 **3. NetWebCo | Feb 2021 – Sep 2023** *(agency, Magento e-commerce — my long anchor role)*
