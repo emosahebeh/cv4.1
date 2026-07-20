@@ -27,3 +27,5 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - if they will not be my sponser for visa
 - more than 5 years experience in any field even marketing
 - publish date is more than 1 month
+- Contract: 6 Months
+- Contract: short contract
