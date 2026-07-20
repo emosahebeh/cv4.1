@@ -31,3 +31,5 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - Contract: short contract
 - the publisher is #Jobster and the job content is in dutch
 - Dutch AND any other language is needed
+- Nederlands AND any other language is needed
+- Nederlands is needed
