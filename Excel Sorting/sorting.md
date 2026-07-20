@@ -29,3 +29,4 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - publish date is more than 1 month
 - Contract: 6 Months
 - Contract: short contract
+- the publisher is #Jobster and the job content is in dutch
