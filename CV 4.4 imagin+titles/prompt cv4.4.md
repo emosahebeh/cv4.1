@@ -4,15 +4,18 @@ can you select this id as a name for our chat? I want to look for it easier. It 
 
 You know me from `cv_master_lean.md and Experience_details.md files`. I'll give you a job description (URL or text) each time. Tailor the **red** parts of `Resume Template - V4.docx`, turn them black, keep everything else identical (font, size, family). Return a PDF export of that docx.
 
-**Hard stop:**
+**Hard stop1:**
 *If user said in a prompt "go", you must ignor hard stop rules, unless it's about missing file.
 * if in the job description, they clearly say need someone to know Dutch language or any other language rather English. You must not judge they need it or not, they must clearly say they need any other language than English.
 * If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating the new CV). never use your tokens when you are not sure about my decision. if in general I'm a good match, then no need to flag anything and continue creating the CV.
 * when you do hard stop, explain as less as possible. stop and tell me the reason.
-* if `Resume Template - V4.docx` is NOT present, stop and ask me to share it. and explain nothing else.
 * if you don't have job Id in the job description, hard stop.
 * if a company will not do my sponsership in the future.
 * if the positin is not located in the Netherlands
+
+**Hard stop2:**
+first check all the hard stop1 points. only when you checked and flaged them, in the meantime, you can check this point:
+* if `Resume Template - V4.docx` is NOT present, stop and ask me to share it. and explain nothing else.
 
 ## Workflow
 1. Read the JD carefully. Extract ATS keywords and what the company wants the person to do in the future.
