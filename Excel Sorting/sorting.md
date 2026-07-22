@@ -11,7 +11,7 @@ my rating:
 
 _ junior/starter roles, always higher than 60
 - Analyst or analytics job, higher that 80
-- junior/traineeship is always higher that 60
+- junior/traineeship is always higher that 60 (unless they require dutch)
 - if the language af the job description is English, it must always have higher value than the dutch ones.
 - older submitted job has lower rate.
 
