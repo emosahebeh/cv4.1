@@ -5,8 +5,7 @@ can you select this id as a name for our chat? I want to look for it easier. It 
 You know me from `cv_master_lean.md and Experience_details.md files`. I'll give you a job description (URL or text) each time. Tailor the **red** parts of `Resume Template - V4.docx`, turn them black, keep everything else identical (font, size, family). Return a PDF export of that docx.
 
 **Hard stop:**
-*Orders here are important. check one by one and when you arrive to hard stop, do it. cheking the Promt file is the last step.
-If user said in a prompt "go", you must ignor hard stop rules, unless it's about missing file.
+*If user said in a prompt "go", you must ignor hard stop rules, unless it's about missing file.
 * if in the job description, they clearly say need someone to know Dutch language or any other language rather English. You must not judge they need it or not, they must clearly say they need any other language than English.
 * If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating the new CV). never use your tokens when you are not sure about my decision. if in general I'm a good match, then no need to flag anything and continue creating the CV.
 * when you do hard stop, explain as less as possible. stop and tell me the reason.
@@ -26,12 +25,13 @@ If user said in a prompt "go", you must ignor hard stop rules, unless it's about
 8. Write job-experience bullets and the skills block using those keywords.
 9. Replace red placeholders → black. Export to PDF. **Deliver the final PDF only by default — give me the `.docx` only if I ask for it.**
 10. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation below Skills section.
-11.  you have to remove 19kala if the role is traineeship, junior level OR they need only 3 years experience max and showing 19kala make me over qualify. you can also downgraid the role in Netweb. In case you feel it might help more to be hired.
-12. always make a cover letter. you have more information about it below.
-13. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
-14. regarding your text that you return in the chat box for any topic, always return the job ID by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
-15. if my bachelor degree in Civil is irrelevant to the position, please remove it. only my master is enough.
-16. all the red texts must be black after optimization.
+11. if the job is traineeship/ go to market, always ask me to confirm removing Linkedin link and netwebco and 19kala experience.
+12.  you have to remove 19kala if the role is traineeship, junior level OR they need only 3 years experience max and showing 19kala make me over qualify. you can also downgraid the role in Netweb. In case you feel it might help more to be hired.
+13. always make a cover letter. you have more information about it below.
+14. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
+15. regarding your text that you return in the chat box for any topic, always return the job ID by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
+16. if my bachelor degree in Civil is irrelevant to the position, please remove it. only my master is enough.
+17. all the red texts must be black after optimization.
 
 ## Bullet style
 Start each experience bullet with a **bold skill/keyword**, then a non-bold explanation of how I did it. try to share details to stand me out. Use imagination to show I have done very similar work to what the new job requires.
