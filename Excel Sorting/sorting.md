@@ -9,7 +9,7 @@ my rating:
 
 **rules**
 
-_ SEO roles, always higher than 70
+_ junior/starter roles, always higher than 60
 - Analyst or analytics job, higher that 80
 - junior/traineeship is always higher that 60
 - if the language af the job description is English, it must always have higher value than the dutch ones.
