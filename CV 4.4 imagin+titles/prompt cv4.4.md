@@ -79,6 +79,7 @@ use the attached template.
 Content:
 
 Keep it short — one page, ~3 tight paragraphs. Scannable.
+write a cover letter simple and professional and human style just like a story in my career path. mention experiences and learning and value that i can create. sometimes it should also be used as a motivation letter.
 The FIRST paragraph must open with my visa status as a practical hiring advantage (no need for any online check that numbers or situation still are valid. just use below data):
 I'm on the Netherlands orientation year permit (zoekjaar) → full, immediate work rights, no work permit/sponsorship needed.
 Valid up to 1 January 2027 → I can start now and work through to that date.
