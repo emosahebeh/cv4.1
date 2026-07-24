@@ -14,8 +14,9 @@ Candidate's current permit: Zoekjaar / Orientation Year
 Zoekjaar expiry date: 7 January 2027
 Expected gross monthly salary: €3,122
 HSM category: Reduced salary criterion
+1year Contract (with the 2-month termination notice period, if it would be an option!)
 
-The candidate is already familiar with our company and activities and worked for us for our website development as a freelancer, and we would like to hire them on a long-term basis.
+The candidate is already familiar with our company and activities and worked for us for our website development as a freelancer, and we would like to hire him on a long-term basis.
 
 Could you please let us know:
 
