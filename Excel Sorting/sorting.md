@@ -10,6 +10,7 @@ my rating:
 **rules**
 
 - Analyst or analytics job, higher that 80 (unless they require dutch and you give them 0)
+- give higher 70 if it's with ZZP or selfemployed contract even if it's 6months or short contract.
 - junior/traineeship/starter roles are always higher that 60 (unless they require dutch and you give them 0)
 - if a role needs civil engineering and IT/analytical skills, flag it as a golden job for me.
 - if the language af the job description is English, it must always have higher value than the dutch ones.
@@ -27,9 +28,9 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - if they will not be my sponser for visa
 - more than 5 years experience in any field even marketing
 - publish date is more than 1 month
-- Contract: 6 Months
-- Contract: short contract
+- Contract: 6 Months AND not zzp
+- Contract: short contract and not zzp
 - the publisher is #Jobster and the job content is in dutch
 - Dutch AND any other language is needed
 - Nederlands AND any other language is needed
-- Nederlands is needed
+- Nederlands (language) is needed
