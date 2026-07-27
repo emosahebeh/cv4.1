@@ -89,7 +89,7 @@ Be honest about real gaps; never fabricate. Reframe transferable skills.
 Close with a brief, confident call to a conversation.
 Tone: professional, warm, confident; match the energy of the job ad.
 
-
+if the job is short term like 6 month conteract or it's ZZP contract, never mention the visa spansership. it's fine.
 -----------------
 # Past Job-Title Optimizer
 
