@@ -34,3 +34,4 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - Dutch AND any other language is needed
 - Nederlands AND any other language is needed
 - Nederlands (language) is needed
+- if it was from one of these accounts: "Picnic - Harnham"
