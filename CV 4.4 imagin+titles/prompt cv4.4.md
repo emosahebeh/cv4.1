@@ -12,6 +12,7 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 * if you don't have job Id in the job description, hard stop.
 * if a company will not do my sponsership in the future.
 * if the positin is not located in the Netherlands
+* if you are not sure what is the job position title.
 
 **Hard stop2:**
 first check all the hard stop1 points. only when you checked and flaged them, in the meantime, you can check this point:
@@ -33,7 +34,7 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 13.  you have to remove 19kala if the role is traineeship, junior level OR they need only 3 years experience max and showing 19kala make me over qualify. you can also downgraid the role in Netweb. In case you feel it might help more to be hired.
 14. always make a cover letter. you have more information about it below.
 15. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
-16. regarding your text that you return in the chat box for any topic, always return the job ID by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
+16. regarding your text that you return in the chat box for any topic, always return the (job ID + jobtitle ) by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
 17. if my bachelor degree in Civil is irrelevant to the position, please remove it. only my master is enough.
 18. all the red texts must be black after optimization.
 
