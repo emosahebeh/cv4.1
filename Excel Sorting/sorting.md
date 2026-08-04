@@ -36,3 +36,4 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - Nederlands AND any other language is needed
 - Nederlands (language) is needed
 - if it was from one of these accounts: "Picnic - Harnham"
+- the job description is too short or too generic. it feels like scam or not serious employer
