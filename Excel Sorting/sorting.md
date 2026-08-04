@@ -7,6 +7,7 @@ my rating:
 - you need to sort jobs based on rules below
 - orders are important. follow the rules from top to buttom
 
+
 **rules**
 
 - Analyst or analytics job, higher that 80 (unless they require dutch and you give them 0)
@@ -26,7 +27,7 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - Account Manager (although key Account Manager is fine)
 - internship positions / intern
 - if they will not be my sponser for visa
-- more than 5 years experience in any field even marketing
+- more than 5 years experience in any field even marketing (remember, if they say 0 to 6 years exoerience, it does not mean they need 6 years experience. 3 years is also fine. then you should not give 0 to them.)
 - publish date is more than 1 month
 - Contract: 6 Months AND not zzp
 - Contract: short contract and not zzp
