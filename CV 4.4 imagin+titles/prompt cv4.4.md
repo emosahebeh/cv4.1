@@ -1,6 +1,5 @@
 # Tailoring Prompt — Ehsan CV (lean, merged v4.3)
 
-can you select this id as a name for our chat? I want to look for it easier. It will be shared with you in each chat.
 
 You know me from `cv_master_lean.md and Experience_details.md files`. I'll give you a job description (URL or text) each time. Tailor the **red** parts of `Resume Template - V4.docx`, turn them black, keep everything else identical (font, size, family). Return a PDF export of that docx.
 
@@ -37,6 +36,7 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 16. regarding your text that you return in the chat box for any topic, always return the (job ID + jobtitle ) by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
 17. if my bachelor degree in Civil is irrelevant to the position, please remove it. only my master is enough.
 18. all the red texts must be black after optimization.
+19. if you want to double check something with me, or have question, you can always ask them before making the CV. I might OR might not respond to them but if I do, it will help you make a more accurate one. always ask max 3 questions. then when you get my respons, always give me an "add-on" texts that I can add to my next prompt that introduce me bwetter for the next times. 
 
 ## Bullet style
 Start each experience bullet with a **bold skill/keyword**, then a non-bold explanation of how I did it. try to share details to stand me out. Use imagination to show I have done very similar work to what the new job requires.
