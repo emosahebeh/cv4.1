@@ -76,22 +76,39 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 
 ### Cover Letter Prompt — Ehsan Mosahebeh
 
-Deliver as a PDF. Give the .docx only if I ask.
-use the attached template.
-Content:
+Structure (one page, ~200–260 words, three paragraphs)
 
-Keep it short — one page, ~3 tight paragraphs. Scannable.
-write a cover letter simple and professional and human style just like a story in my career path. mention experiences and learning and value that i can create. sometimes it should also be used as a motivation letter.
-The FIRST paragraph must open with my visa status as a practical hiring advantage (no need for any online check that numbers or situation still are valid. just use below data):
-I'm on the Netherlands orientation year permit (zoekjaar) → full, immediate work rights, no work permit/sponsorship needed.
-Valid up to 1 January 2027 → I can start now and work through to that date.
-On transition to highly skilled migrant sponsorship I qualify for the reduced salary criterion — mention it indirectly via the figure: the reduced threshold is only around €3,122 gross/month (2026, excl. holiday allowance), well below the standard rates. (no need for Re-verify the figure yearly before sending.)
-After the visa paragraph, explain why I'm a strong fit for this specific role. Use max 1–2 of my most relevant proof points — reframe them, don't restate the whole CV.
-Be honest about real gaps; never fabricate. Reframe transferable skills.
-Close with a brief, confident call to a conversation.
-Tone: professional, warm, confident; match the energy of the job ad.
+Opening — the reframe. First sentence answers the objection a reader forms from my CV (career changes, short stints). State what my work has consistently been, using the job ad's own vocabulary. End with why this role is the next step in that line, not a departure. Three sentences, no adjectives about myself.
+Evidence. Two or three examples, most recent and most relevant first, one sentence each, every one with a number. Tools in one final line, no skill levels, phrased as what I do with them.
+Gap and close. Name the one real gap honestly in one clause, then follow with something I've already done about it (I'll supply this; if I haven't, leave a bracketed placeholder and tell me). One sentence on why this company specifically. Close with a brief, confident invitation to talk.
 
-if the job is short term like 6 month conteract or it's ZZP contract, never mention the visa spansership. it's fine.
+Hard rules
+
+Never restate the CV. Pick one thread that leads to this job and drop everything else, including background that isn't on that thread.
+Never fabricate. If a claim isn't supported by my CV or my notes, leave a placeholder and flag it.
+No work-permit, visa, salary, or availability details anywhere. Those go in the application form.
+No self-descriptions ("detail-oriented," "fast learner," "proven track record"). Numbers do that job.
+Don't quote the job ad's phrasing back at them. Use its vocabulary for the work, not for describing me.
+Every sentence must contain either a fact or a reason. Cut anything that's neither.
+Mode switch: if I say "motivation letter," expand paragraph 3 to include what I'd want to learn and contribute over the first year; otherwise keep it as a cover letter.
+
+Tone: plain, warm, direct. Write like someone who is settled in what they do, not excited to discover it. No "passionate," "journey," "leverage," "revelation." British spelling.
+
+Before delivering: check the header (city, country; plain email; full name in sign-off), check spelling and date formatting against the CV, and list any placeholders you left.
+
+cover ketter sample:
+Dear Hiring Team,
+
+My industry has changed three times since 2021; my work has not. Every role I've held has been the same problem in a different setting: take complex cost data, reconcile it against what was agreed, find where it's wrong, and build the tooling so it stays right. Card-network fees are the hardest version of that problem I know of, which is why I'm applying for this role.
+
+At Joybuy (JD.com Europe) I owned weekly profit and rebate reconciliation across ~5,000 SKUs and the five largest suppliers, validating every figure against negotiated terms, and built a forecasting model (~80% accuracy) that flagged pricing anomalies before they reached the commercial team. At Versuni I reconciled affiliate payouts across 17 partners in 8 markets and cut monthly reporting from three days to five hours with a Power BI model. Before that I built a tool that monitored competitor prices across five stores three times a day and alerted the sales team when they moved out of range. I work in SQL, advanced Excel and Python, and I'm comfortable extracting the data, modelling it and building what's needed to monitor it.
+
+I haven't worked with interchange or scheme fees directly, so I've started: [one concrete sentence — e.g. "I've mapped Visa and Mastercard's EMEA interchange categories for a sample of transaction types to understand where passthrough errors are most likely."] I'd welcome the chance to go deeper with your team, and Adyen's commitment to fee transparency is the reason I want to do it here rather than anywhere else.
+
+Kind regards,
+Ehsan Mosahebeh
+
+
 -----------------
 # Past Job-Title Optimizer
 
