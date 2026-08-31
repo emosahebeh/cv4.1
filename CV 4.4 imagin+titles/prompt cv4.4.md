@@ -102,7 +102,7 @@ My industry has changed three times since 2021; my work has not. Every role I've
 
 At Joybuy (JD.com Europe) I owned weekly profit and rebate reconciliation across ~5,000 SKUs and the five largest suppliers, validating every figure against negotiated terms, and built a forecasting model (~80% accuracy) that flagged pricing anomalies before they reached the commercial team. At Versuni I reconciled affiliate payouts across 17 partners in 8 markets and cut monthly reporting from three days to five hours with a Power BI model. Before that I built a tool that monitored competitor prices across five stores three times a day and alerted the sales team when they moved out of range. I work in SQL, advanced Excel and Python, and I'm comfortable extracting the data, modelling it and building what's needed to monitor it.
 
-I haven't worked with interchange or scheme fees directly, so I've started: *** I'd welcome the chance to go deeper with your team, and Adyen's commitment to fee transparency is the reason I want to do it here rather than anywhere else.
+I haven't worked with interchange or scheme fees directly, so I've started:... . I'd welcome the chance to go deeper with your team, and Adyen's commitment to fee transparency is the reason I want to do it here rather than anywhere else.
 
 Kind regards,
 Ehsan Mosahebeh
