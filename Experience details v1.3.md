@@ -80,7 +80,7 @@ The dynamic pricing idea was tested on the UK landing page during the final mont
 
 ### **NetWebCo**
 
-I provided SEO consulting and support for websites using the Magento CMS.
+I provided SEO consulting and support for websites using the Magento and WordPress CMS.
 
 In addition, for clients’ blog sections, which were usually built on WordPress, I developed SEO-focused plugins. For example, one plugin added blog schema markup to the page, and another plugin allowed FAQ sections to be added to blog posts while also inserting the related FAQ schema into the page HTML.
 
@@ -169,4 +169,10 @@ It monitored around 100 main mobile phone products.
 The advertising plugin was shown to blog visitors, sometimes reaching up to 100,000 visitors.
 
 The traffic growth from 30,000 to 190,000 daily users was for the whole website. Usually, the blog accounted for around 60% to 70% of total website traffic.
+
+I have learned Hubspot recently and am working on it. fortunatelly it looks like Wordpress which I already know and underestand the logic and tools behind optiones. It helps me learn it faster.
+
+I have learn C++ in university.
+
+I know Python but I'm better in PHP. they are likely similar.
 
