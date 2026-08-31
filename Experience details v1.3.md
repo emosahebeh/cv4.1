@@ -1,6 +1,6 @@
+This is my story: I trained as a civil engineer, which is where I learned to work with rigid constraints and check every number twice. During my degree I took a C++ course and realised the same discipline applied to code, except I could build once and run it a thousand times. So I taught myself PHP, SQL and later Python, and joined an e-commerce agency where I spent two and a half years building tools around pricing and product data. The MBA came afterwards because I was good at building the analysis but wanted to be better at deciding what was worth analysing. Since then, both roles I've had have been reconciliation and pricing work. So I'm not looking for a new direction. I'm looking to go deeper into the one I've been in for five years, and card-network fees are the most complex version of that problem I know of.
 
-
-## **English Translation — Work Experience Details**
+## **Work Experience Details**
 
 ### **Joybuy**
 
