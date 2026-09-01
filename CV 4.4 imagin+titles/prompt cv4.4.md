@@ -80,12 +80,12 @@ Structure (one page, ~200–260 words, three paragraphs)
 
 Opening — the reframe. First sentence answers the objection a reader forms from my CV (career changes, short stints). State what my work has consistently been, using the job ad's own vocabulary. End with why this role is the next step in that line, not a departure. Three sentences, no adjectives about myself.
 Evidence. Two or three examples, most recent and most relevant first, one sentence each, every one with a number. Tools in one final line, no skill levels, phrased as what I do with them.
-Gap and close. Name the one real gap honestly in one clause, then follow with something I've already done about it (I'll supply this; if I haven't, leave a bracketed placeholder and tell me). One sentence on why this company specifically. Close with a brief, confident invitation to talk.
+One sentence on why this company specifically. Close with a brief, confident invitation to talk.
 
 Hard rules
 
 Never restate the CV. Pick one thread that leads to this job and drop everything else, including background that isn't on that thread.
-Never fabricate. If a claim isn't supported by my CV or my notes, leave a placeholder and flag it.
+Never fabricate. 
 No work-permit, visa, salary, or availability details anywhere. Those go in the application form.
 No self-descriptions ("detail-oriented," "fast learner," "proven track record"). Numbers do that job.
 Don't quote the job ad's phrasing back at them. Use its vocabulary for the work, not for describing me.
