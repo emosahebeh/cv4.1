@@ -168,4 +168,5 @@ Hard limits — never cross:
 
 ## Output format
 Terse. Table only. Flag anything I should notice with an emoji. No paragraphs.
-- always double check. in final outputs, there must not be any red color text and any blank OR sample text.
+- in the files, always double check. in final outputs, there must not be any red color text and any blank OR sample text.
+- if some questions are asked after the CV as an employer's question, you need to respond like human, short and simple.
