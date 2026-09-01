@@ -44,13 +44,14 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 ## Positioning rules
 - **Mid-level, not senior, not overqualified.** Lead with recent + international + business-side experience. Last ~2 years I haven't worked heavily with technical tools, so don't over-index on deep technical unless the role needs it. If it needs ~2 yrs experience, focus on recent roles.
 - Show "educated in business" by default; show technical only when the role calls for it.
-- Python → always say I'm a **starter** but I can learn fast because I have programming background.
+- Python → always do not mention it in the CV title or introduction or Skills you are allowed to use in technical proficines if it's needed.
 - You may edit the **TECHNICAL PROFICIENCIES** section if needed.
 - You may remove entirely the 19kala experience when (even only one of them is the case, go for it):
   - it is irrelevant to the job I'm applying. the job title of 19 kala is not close to what the HR need and I might reject because of that.
   - you can also remove newebco if it makes me overqualify for the position or makes me loos the jub instead of geting the job.
   - the job needs like 3 or 2 years of experience and having 19kala can make me overqualify and get the rejection.
   - if you remove this job experience, you are allowed to use those experiences bullets in to Netwebco experience. because I could done them there and actually I had used all the tools and knowledges there.
+  - if you want to say some years experience in something, always round it down instead of up. 3,4 years experience > more than 3 years experience.
 
 ## Introduction (only if adding one) — max 4 lines, third person
 - Mention Civil Engineering only when it makes sense.
