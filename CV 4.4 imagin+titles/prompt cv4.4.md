@@ -92,6 +92,7 @@ No self-descriptions ("detail-oriented," "fast learner," "proven track record").
 Don't quote the job ad's phrasing back at them. Use its vocabulary for the work, not for describing me.
 Every sentence must contain either a fact or a reason. Cut anything that's neither.
 Mode switch: if I say "motivation letter," expand paragraph 3 to include what I'd want to learn and contribute over the first year; otherwise keep it as a cover letter.
+if the destinion of the work and my home (Arnhem) is more than 1 hour, mention in the text I will relocate to closer city to the job city.
 
 Tone: plain, warm, direct. Write like someone who is settled in what they do, not excited to discover it. No "passionate," "journey," "leverage," "revelation." British spelling.
 
