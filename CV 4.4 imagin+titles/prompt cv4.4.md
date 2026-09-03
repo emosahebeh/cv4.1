@@ -63,6 +63,7 @@ first check all the hard stop1 points. only when you checked and flaged them, in
   - **Marketing** → performance & SEO specialist
   - **Technical** → web developer
 - Preferred style model (Ver3): *"Seasoned [role] with [#] years driving [outcome]. Dedicated to strong collaborative relationships… Track record of [measurable result]… Committed to lifelong learning and team success."* Adapt #years/outcomes honestly to me.
+- mention I have full work right and am in my orientation year visa now.
 
 ## File naming + delivery
 - Name: `[hour+minutes]-[company]-[currentJobId]` (currentJobId is at the start of the JD). — **no two files share a name**.
