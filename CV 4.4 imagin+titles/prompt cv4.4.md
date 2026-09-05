@@ -130,12 +130,12 @@ Hard limits — never cross:
 
 ## The four roles — umbrella (LinkedIn) + approved narrowing menu
 
-**1. Joybuy (JD.com Europe) — Rotterdam | Apr 2026 – Jul 2026** *(4-month program, keep "Associate" and "FMCG" )*
+**1. Joybuy (JD.com Europe) — Rotterdam | Apr 2026 – Jul 2026** *(6-month program, keep "Intern" and "FMCG" )*
 - Umbrella: Current title in the template
-- Data/analytics JD → `FMCG Category & Commercial Analytics Associate` · `FMCG Commercial Operations Analyst` · `FMCG Category Analytics Associate`
+- Data/analytics JD → `FMCG Category & Commercial Analytics Intern` · `FMCG Commercial Operations Analytics Intern` · `FMCG Category Analytics Intern`
 - Marketing JD → `FMCG Category & Campaign Operations Associate`
-- **Supply-chain JD** → `FMCG Category & Supply Operations Associate` · `FMCG Demand Planning Associate` · `FMCG Commercial & Supply Chain Associate` *(demand forecasting + OOS prediction + supplier mgmt are real here — strongest supply-chain anchor)*
-- **Business-commercial JD** → `FMCG Commercial Operations Associate` · `FMCG Business Operations Associate` · `FMCG Category & Commercial Associate`
+- **Supply-chain JD** → `FMCG Category & Supply Operations Intern` · `FMCG Demand Planning Intern` · `FMCG Commercial & Supply Chain Intern` *(demand forecasting + OOS prediction + supplier mgmt are real here — strongest supply-chain anchor)*
+- **Business-commercial JD** → `FMCG Commercial Operations Intern` · `FMCG Business Operations Intern` · `FMCG Category & Commercial Intern`
 - SEO JD → *no good fit — keep umbrella*
 
 **2. Philips DA (Versuni) — Amsterdam | Aug 2024 – Mar 2025** *(MBA internship, ALWAYS keep "Intern")*
