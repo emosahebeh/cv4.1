@@ -8,7 +8,7 @@ Note: this is a reference , not the final CV.
 
 ## Skills (full pool — select max 15 per role)
 
-- **Web/dev:** PHP, HTML5, CSS, WordPress plugin programming, JavaScript, Python, MySQL, API  
+- **Web/dev:** PHP, HTML5, CSS, WordPress plugin programming, JavaScript (beginer), Python, MySQL, API  
 - **SEO:** Technical SEO, Schema markup, On-page / Off-page SEO, Keyword research, CRO  
 - **SEO/analytics tools:** Google Analytics, Google Tag Manager, Google Search Console, Screaming Frog, Moz, Semrush, Ahrefs, KWfinder  
 - **Paid/marketing:** Google Ads, SEM, PPC, Performance marketing, Affiliate marketing, Loyalty programs, Retargeting  
