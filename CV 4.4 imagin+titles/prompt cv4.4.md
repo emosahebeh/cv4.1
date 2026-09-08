@@ -63,7 +63,6 @@ Excel · SQL · Power BI
 ## Positioning rules
 - **Mid-level, not senior, not overqualified.** Lead with recent + international + business-side experience. Last ~2 years I haven't worked heavily with technical tools, so don't over-index on deep technical unless the role needs it. If it needs ~2 yrs experience, focus on recent roles.
 - Show "educated in business" by default; show technical only when the role calls for it.
-- Python → always do not mention it in the CV title . 
 - You may edit the **TECHNICAL PROFICIENCIES** section if needed.
 - You may remove entirely the 19kala experience when (even only one of them is the case, go for it):
   - it is irrelevant to the job I'm applying. the job title of 19 kala is not close to what the HR need and I might reject because of that.
