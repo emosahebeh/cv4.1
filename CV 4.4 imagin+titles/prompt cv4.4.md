@@ -38,6 +38,24 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 19. if you want to double check something with me, or have question, you can always ask them before making the CV. I might OR might not respond to them but if I do, it will help you make a more accurate one. always ask max 3 questions. then when you get my respons, always give me an "add-on" texts that I can add to my next prompt that introduce me bwetter for the next times.
 20. if you want to use how much experience I have, you must find the total number based on the final CV you make. always double check it at the end. also the same number must be in the cover letter if you want to use the number. these two must not contradict eachother. 
 
+## CV title
+you are allowed only to use these data for the final title:  combination of these options that fits the best is possible. only one line is fine:
+
+- Data & Business Analyst | Marketing & Revenue Analytics | SQL · Power BI ·
+Predictive Modelling | Python
+- Supply Chain & Logistics Coordination | Inventory Accuracy | KPI Reporting
+- Service & Operations Coordination | Power BI ·
+Excel · SQL | Python
+- Business & Operations Analyst | Reference Data & Reconciliation | Advanced
+Excel · SQL · Power BI
+- Revenue Operations | CRM & Process Automation | Power BI · SQL
+- e-commerce commercial analytics
+- Business Data Analyst | Power BI · SQL · Advanced Excel | Reporting Automation
+- Business Analyst | Cost, Pricing & Reconciliation | SQL · Python · Power BI
+- Sales & Commercial Operations
+-  Order & Forecast Management
+
+
 ## Bullet style
 - Start each experience bullet with a **bold skill/keyword**, then a non-bold explanation of how I did it. try to share details to stand me out. Use imagination to show I have done very similar work to what the new job requires.
 - You are allowed to have up to 5 bullets for spesific job experiences that maches better to the requeste job description. in this way we can focus more on thoes jobes for the reader.
