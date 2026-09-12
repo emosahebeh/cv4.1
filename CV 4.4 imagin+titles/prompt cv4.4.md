@@ -111,7 +111,7 @@ Before delivering: check the header (city, country; plain email; full name in si
 cover ketter sample:
 Dear Hiring Team,
 
-My industry has changed three times since 2021; my work has not. Every role I've held has been the same problem in a different setting: take complex cost data, reconcile it against what was agreed, find where it's wrong, and build the tooling so it stays right. Card-network fees are the hardest version of that problem I know of, which is why I'm applying for this role.
+Every role I've held has been the same problem in a different setting: take complex cost data, reconcile it against what was agreed, find where it's wrong, and build the tooling so it stays right. Card-network fees are the hardest version of that problem I know of, which is why I'm applying for this role.
 
 At Joybuy (JD.com Europe) I owned weekly profit and rebate reconciliation across ~5,000 SKUs and the five largest suppliers, validating every figure against negotiated terms, and built a forecasting model (~80% accuracy) that flagged pricing anomalies before they reached the commercial team. At Versuni I reconciled affiliate payouts across 17 partners in 8 markets and cut monthly reporting from three days to five hours with a Power BI model. Before that I built a tool that monitored competitor prices across five stores three times a day and alerted the sales team when they moved out of range. I work in SQL, advanced Excel and Python, and I'm comfortable extracting the data, modelling it and building what's needed to monitor it.
 
@@ -122,55 +122,3 @@ Ehsan Mosahebeh
 
 
 -----------------
-# Past Job-Title Optimizer
-
-## What this does
-For a given job description (JD), pick the best **title line** for each of my four past roles so the CV reads focused for *that* role. You are ONLY choosing titles here that have yellow background. when you made the change, remove the background color. — do not touch bullets, skills, dates, or employers.
-
-## The core rule (read twice)
-Each past title has an **umbrella version** (the broad, generic title that stays fixed on my LinkedIn and matches the official employment record). On the CV you may **narrow** the title toward the target role, but the narrowed title must always be a **truthful subset of the umbrella** — same **function**, same **seniority**. A recruiter comparing my CV to my LinkedIn must think *"same job, described for this role,"* never *"different job."*
-
-Hard limits — never cross:
-- ❌ Don't change function (e.g. Analyst → Developer, Marketing → Data) beyond what the umbrella already covers.
-- ❌ Don't inflate seniority (Intern → Associate, Associate → Manager/Lead).
-- 🔒 **Intern stays Intern. Program/Associate stays Associate.**
-- 🔒 Employer names and dates are fixed anchors — never edit them.
-- ✅ If no menu option genuinely fits the JD, keep the umbrella title. Don't force a bad fit.
-
-## The four roles — umbrella (LinkedIn) + approved narrowing menu
-
-**1. Joybuy (JD.com Europe) | Apr 2026 – Jul 2026** *(6-month program, keep "Intern" and "FMCG" )*
-- Umbrella: Current title in the template
-- Data/analytics JD → `FMCG Category & Commercial Analytics Intern - Product & Data Projects` · `FMCG Commercial Operations Analytics Intern - Product & Data Projects` · `FMCG Category Analytics Intern - Product & Data Projects`
-- Marketing JD → `FMCG Category & Campaign Operations Associate`
-- **Supply-chain JD** → `FMCG Category & Supply Operations Intern` · `FMCG Demand Planning Intern` · `FMCG Commercial & Supply Chain Intern` *(demand forecasting + OOS prediction + supplier mgmt are real here — strongest supply-chain anchor)*
-- **Business-commercial JD** → `FMCG Commercial Operations Intern` · `FMCG Business Operations Intern` · `FMCG Category & Commercial Intern`
-- SEO JD → *no good fit — keep umbrella*
-
-**2. Philips DA (Versuni)  | Aug 2024 – Mar 2025** *(MBA internship, ALWAYS keep "Intern")*
-- Umbrella: Current title in the template
-
-**3. NetWebCo | Feb 2021 – Sep 2023** *(agency, Magento e-commerce — my long anchor role)*
-- Umbrella: Current title in the template
-- Data/analytics JD → `Digital / Web Analytics Specialist` · `Digital Data Analyst`
-
-- **Supply-chain JD** → *weak fit — keep umbrella unless the JD centres on the price-monitoring / feed-automation work*
-
-**4. 19kala | Dec 2019 – Feb 2021** *(OpenCart e-commerce, in-house)*
-- Umbrella: Current title in the template
-
-- **Business-commercial JD** → `SEO & Digital Operations Specialist` *(only if the JD is broad; otherwise keep umbrella)*
-- **Supply-chain JD** → *no fit — keep umbrella, or drop per the remove-19kala rule below*
-- ⚠️ If the master prompt's "remove 19kala" rule applies (irrelevant role / overqualification risk), drop this role entirely instead of retitling.
-
-## Process
-1. Read the JD → identify the **target function** (SEO / data-analytics / marketing / web-dev / ops / **supply-chain** / **business-commercial**) and seniority.
-2. For each of the four roles, pick the single best menu title for that function. Default to umbrella if nothing fits.
-3. Output a short table: `Role | Umbrella | Chosen title for this JD | why (≤6 words)`.
-4. Stop and show me the table. Wait for my "go" before it's used in a build.
-
-## Output format
-Terse. Table only. Flag anything I should notice with an emoji. No paragraphs.
-- in the files, always double check. in final outputs, there must not be any red color text and any blank OR sample text.
-- if some questions are asked after the CV as an employer's question, you need to respond like human, short and simple.
-- there must be no red text in any of two files.
