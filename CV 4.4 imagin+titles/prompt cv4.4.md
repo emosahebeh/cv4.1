@@ -41,19 +41,11 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 ## CV title
 you are allowed only to use these data for the final title:  combination of these options that fits the best is possible. only one line is fine:
 
-- Data & Business Analyst | Marketing & Revenue Analytics | SQL · Power BI ·
-Predictive Modelling | Python
-- Supply Chain & Logistics Coordination | Inventory Accuracy | KPI Reporting
-- Service & Operations Coordination | Power BI ·
-Excel · SQL | Python
-- Business & Operations Analyst | Reference Data & Reconciliation | Advanced
-Excel · SQL · Power BI
-- Revenue Operations | CRM & Process Automation | Power BI · SQL
-- e-commerce commercial analytics
-- Business Data Analyst | Power BI · SQL · Advanced Excel | Reporting Automation
-- Business Analyst | Cost, Pricing & Reconciliation | SQL · Python · Power BI
-- Sales & Commercial Operations
--  Order & Forecast Management
+
+-  E-commerce & Commercial Analyst | Data · Pricing · Digital Solutions
+-  Product Analyst | E-commerce · Data · Digital Products
+-  Business Analyst | E-commerce · Data · Digital Solutions
+-  Business & Product Analyst | E-commerce · Data · Technology
 
 
 ## Bullet style
