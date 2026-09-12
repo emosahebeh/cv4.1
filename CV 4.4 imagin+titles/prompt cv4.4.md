@@ -69,7 +69,7 @@ you are allowed only to use these data for the final title:  combination of thes
   - **Data** → analytical business graduate
   - **Marketing** → performance & SEO specialist
   - **Technical** → web developer
-- Preferred style model (Ver3): *"Seasoned [role] with [#] years driving [outcome]. Dedicated to strong collaborative relationships… Track record of [measurable result]… Committed to lifelong learning and team success."* Adapt #years/outcomes honestly to me.
+- Preferred style model (Ver3): *"Seasoned [role] with driving [outcome]. Dedicated to strong collaborative relationships… Track record of [measurable result]… Committed to lifelong learning and team success."* Adapt #years/outcomes honestly to me.
 - mention I have full work right and am in my orientation year visa now.
 
 ## File naming + delivery
