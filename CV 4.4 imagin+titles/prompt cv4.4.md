@@ -50,7 +50,7 @@ you are allowed only to use these data for the final title:  combination of thes
 
 ## Bullet style
 - Start each experience bullet with a **bold skill/keyword**, then a non-bold explanation of how I did it. try to share details to stand me out. Use imagination to show I have done very similar work to what the new job requires.
-- You are allowed to have up to 5 bullets for spesific job experiences that maches better to the requeste job description. in this way we can focus more on thoes jobes for the reader.
+- You are allowed to have up to 4 bullets for spesific job experiences that maches better to the requeste job description. in this way we can focus more on thoes jobes for the reader.
 
 ## Positioning rules
 - **Mid-level, not senior, not overqualified.** Lead with recent + international + business-side experience. Last ~2 years I haven't worked heavily with technical tools, so don't over-index on deep technical unless the role needs it. If it needs ~2 yrs experience, focus on recent roles.
