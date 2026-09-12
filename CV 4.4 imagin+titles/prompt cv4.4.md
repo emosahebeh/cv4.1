@@ -58,10 +58,8 @@ you are allowed only to use these data for the final title:  combination of thes
 - You may edit the **TECHNICAL PROFICIENCIES** section if needed.
 - You may remove entirely the 19kala experience when (even only one of them is the case, go for it):
   - it is irrelevant to the job I'm applying. the job title of 19 kala is not close to what the HR need and I might reject because of that.
-  - you can also remove newebco if it makes me overqualify for the position or makes me loos the jub instead of geting the job.
   - the job needs like 3 or 2 years of experience and having 19kala can make me overqualify and get the rejection.
-  - if you want to say some years experience in something, always round it down instead of up. 3,4 years experience > more than 3 years experience.
-  - if the position you are working on is for junior or needs 2 or less than exoerience, never talk about how many years of experience I have. make me look like junior nor senior.
+  - never say any number of for example "4 years experience" in something. no need to mention.
 
 ## Introduction (only if adding one) — max 4 lines, third person
 - Mention Civil Engineering only when it makes sense.
