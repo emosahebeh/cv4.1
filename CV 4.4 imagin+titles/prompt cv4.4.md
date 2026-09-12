@@ -149,25 +149,16 @@ Hard limits — never cross:
 
 **2. Philips DA (Versuni)  | Aug 2024 – Mar 2025** *(MBA internship, ALWAYS keep "Intern")*
 - Umbrella: Current title in the template
-- Marketing JD → `Affiliate Performance Marketing Intern` · `Affiliate Marketing Intern`
-- Data/analytics JD → ` Affiliate Performance Marketing Analyst (Intern)` · `Affiliate Marketing Analytics Intern`
-- **Business-commercial JD** → `Commercial Partnerships Intern (Affiliate)` · ⚠️`Business Development Intern (Affiliate)` *(BD is the stretchier one — only if partner budget/negotiation is central to the JD)*
-- **Supply-chain JD** → *no good fit — keep umbrella*
 
 **3. NetWebCo | Feb 2021 – Sep 2023** *(agency, Magento e-commerce — my long anchor role)*
 - Umbrella: Current title in the template
-- SEO JD → `SEO & Digital Marketing Specialist` · `Technical SEO Specialist`
 - Data/analytics JD → `Digital / Web Analytics Specialist` · `Digital Data Analyst`
-- Marketing JD → `Digital Marketing & Performance Specialist` · `PPC & SEO Specialist`
-- Web/dev JD → `Web Developer & Digital Specialist`
-- **Business-commercial JD** → `Digital Consultant & Performance Specialist` · `Client Analytics & Performance Specialist` *(client-facing consulting is real)*
+
 - **Supply-chain JD** → *weak fit — keep umbrella unless the JD centres on the price-monitoring / feed-automation work*
 
 **4. 19kala | Dec 2019 – Feb 2021** *(OpenCart e-commerce, in-house)*
 - Umbrella: Current title in the template
-- SEO JD → `E-commerce Technology Specialist`
-- Data/analytics JD → `E-commerce Technology Specialist`
-- Web/dev JD → `E-commerce Technology Specialist`
+
 - **Business-commercial JD** → `SEO & Digital Operations Specialist` *(only if the JD is broad; otherwise keep umbrella)*
 - **Supply-chain JD** → *no fit — keep umbrella, or drop per the remove-19kala rule below*
 - ⚠️ If the master prompt's "remove 19kala" rule applies (irrelevant role / overqualification risk), drop this role entirely instead of retitling.
