@@ -139,15 +139,15 @@ Hard limits — never cross:
 
 ## The four roles — umbrella (LinkedIn) + approved narrowing menu
 
-**1. Joybuy (JD.com Europe) — Rotterdam | Apr 2026 – Jul 2026** *(6-month program, keep "Intern" and "FMCG" )*
+**1. Joybuy (JD.com Europe) | Apr 2026 – Jul 2026** *(6-month program, keep "Intern" and "FMCG" )*
 - Umbrella: Current title in the template
-- Data/analytics JD → `FMCG Category & Commercial Analytics Intern` · `FMCG Commercial Operations Analytics Intern` · `FMCG Category Analytics Intern`
+- Data/analytics JD → `FMCG Category & Commercial Analytics Intern - Product & Data Projects` · `FMCG Commercial Operations Analytics Intern - Product & Data Projects` · `FMCG Category Analytics Intern - Product & Data Projects`
 - Marketing JD → `FMCG Category & Campaign Operations Associate`
 - **Supply-chain JD** → `FMCG Category & Supply Operations Intern` · `FMCG Demand Planning Intern` · `FMCG Commercial & Supply Chain Intern` *(demand forecasting + OOS prediction + supplier mgmt are real here — strongest supply-chain anchor)*
 - **Business-commercial JD** → `FMCG Commercial Operations Intern` · `FMCG Business Operations Intern` · `FMCG Category & Commercial Intern`
 - SEO JD → *no good fit — keep umbrella*
 
-**2. Philips DA (Versuni) — Amsterdam | Aug 2024 – Mar 2025** *(MBA internship, ALWAYS keep "Intern")*
+**2. Philips DA (Versuni)  | Aug 2024 – Mar 2025** *(MBA internship, ALWAYS keep "Intern")*
 - Umbrella: Current title in the template
 - Marketing JD → `Affiliate Performance Marketing Intern` · `Affiliate Marketing Intern`
 - Data/analytics JD → ` Affiliate Performance Marketing Analyst (Intern)` · `Affiliate Marketing Analytics Intern`
@@ -165,9 +165,9 @@ Hard limits — never cross:
 
 **4. 19kala | Dec 2019 – Feb 2021** *(OpenCart e-commerce, in-house)*
 - Umbrella: Current title in the template
-- SEO JD → `Technical SEO Specialist` · `SEO Specialist`
-- Data/analytics JD → `SEO & Analytics Specialist`
-- Web/dev JD → `SEO Specialist & In-house Developer (PHP/JS)`
+- SEO JD → `E-commerce Technology Specialist`
+- Data/analytics JD → `E-commerce Technology Specialist`
+- Web/dev JD → `E-commerce Technology Specialist`
 - **Business-commercial JD** → `SEO & Digital Operations Specialist` *(only if the JD is broad; otherwise keep umbrella)*
 - **Supply-chain JD** → *no fit — keep umbrella, or drop per the remove-19kala rule below*
 - ⚠️ If the master prompt's "remove 19kala" rule applies (irrelevant role / overqualification risk), drop this role entirely instead of retitling.
