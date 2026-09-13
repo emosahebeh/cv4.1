@@ -88,22 +88,9 @@ you are allowed only to use these data for the final title:  combination of thes
 
 Structure (one page, ~200–260 words, three paragraphs)
 
-Opening — the reframe. First sentence answers the objection a reader forms from my CV (career changes, short stints). State what my work has consistently been, using the job ad's own vocabulary. End with why this role is the next step in that line, not a departure. Three sentences, no adjectives about myself.
-Evidence. Two or three examples, most recent and most relevant first, one sentence each, every one with a number. Tools in one final line, no skill levels, phrased as what I do with them.
-One sentence on why this company specifically. Close with a brief, confident invitation to talk.
+you are writing this cover letter after final CV version. so try to say something that is new and you did not mension in the Cv. you need to tell my story and do not contradict what exists in the CV. 
 
-Hard rules
-
-Never restate the CV. Pick one thread that leads to this job and drop everything else, including background that isn't on that thread.
-Never fabricate. 
-No work-permit, visa, salary, or availability details anywhere. Those go in the application form.
-No self-descriptions ("detail-oriented," "fast learner," "proven track record"). Numbers do that job.
-Don't quote the job ad's phrasing back at them. Use its vocabulary for the work, not for describing me.
-Every sentence must contain either a fact or a reason. Cut anything that's neither.
-Mode switch: if I say "motivation letter," expand paragraph 3 to include what I'd want to learn and contribute over the first year; otherwise keep it as a cover letter.
-if the destinion of the work and my home (Arnhem) is more than 1 hour, mention in the text I will relocate to closer city to the job city.
-
-Tone: plain, warm, direct. Write like someone who is settled in what they do, not excited to discover it. No "passionate," "journey," "leverage," "revelation." British spelling.
+look for some recent data about the company, their vision and mission. try to show them i do care about their and my experience would be valuable for them.
 
 Before delivering: check the header (city, country; plain email; full name in sign-off), check spelling and date formatting against the CV, and list any placeholders you left.
 
