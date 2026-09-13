@@ -106,17 +106,7 @@ Tone: plain, warm, direct. Write like someone who is settled in what they do, no
 
 Before delivering: check the header (city, country; plain email; full name in sign-off), check spelling and date formatting against the CV, and list any placeholders you left.
 
-cover ketter sample:
-Dear Hiring Team,
 
-Every role I've held has been the same problem in a different setting: take complex cost data, reconcile it against what was agreed, find where it's wrong, and build the tooling so it stays right. Card-network fees are the hardest version of that problem I know of, which is why I'm applying for this role.
-
-At Joybuy (JD.com Europe) I owned weekly profit and rebate reconciliation across ~5,000 SKUs and the five largest suppliers, validating every figure against negotiated terms, and built a forecasting model (~80% accuracy) that flagged pricing anomalies before they reached the commercial team. At Versuni I reconciled affiliate payouts across 17 partners in 8 markets and cut monthly reporting from three days to five hours with a Power BI model. Before that I built a tool that monitored competitor prices across five stores three times a day and alerted the sales team when they moved out of range. I work in SQL, advanced Excel and Python, and I'm comfortable extracting the data, modelling it and building what's needed to monitor it.
-
-I'd welcome the chance to go deeper with your team, and Adyen's commitment to fee transparency is the reason I want to do it here rather than anywhere else.
-
-Kind regards,
-Ehsan Mosahebeh
 
 
 -----------------
