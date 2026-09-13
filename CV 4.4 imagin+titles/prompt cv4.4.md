@@ -64,6 +64,7 @@ you are allowed only to use these data for the final title:  combination of thes
 ## Introduction (only if adding one) — max 4 lines, third person
 - Mention Civil Engineering only when it makes sense.
 - max 3 lines.
+- - never say how many years experience I have.
 - Tone by MODE:
   - **Engineering** → analytical engineer transitioning toward operations
   - **Data** → analytical business graduate
