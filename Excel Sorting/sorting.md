@@ -11,16 +11,16 @@ my rating:
 **rules**
 
 - Analyst or analytics job, higher that 80 (unless they require dutch and you give them 0)
-- give higher 70 if it's with ZZP or selfemployed contract even if it's 6months or short contract.
 - junior/traineeship/starter roles are always higher that 60 (unless they require dutch and you give them 0)
 - if a role needs civil engineering and IT/analytical skills, flag it as a golden job for me.
-- if the language af the job description is English, it must always have higher value than the dutch ones.
+- if the language af the job description is English, it must always have higher rate than the dutch ones.
 - older submitted job has lower rate.
+- these are important roles I'm looking for: Business Analyst - E-commerce Business Analyst - Product analyst - commerical analyst - ecommerce data analyst - promotional analyst - marketing analyst - pricing analyst - marketing performance analyst
 
 
 
 **when put 0**
-_ job is for "senior" or "mid senior" in any area except marketing
+- team lead position
 - job needs dutch or other language except English
 - Dutch Speaker in title
 - if "Verdict" is "done" or "reject".
@@ -28,7 +28,6 @@ _ job is for "senior" or "mid senior" in any area except marketing
 - internship positions / intern
 - if they will not be my sponser for visa
 - more than 5 years experience in any field even marketing (remember, if they say 0 to 6 years exoerience, it does not mean they need 6 years experience. 3 years is also fine. then you should not give 0 to them.)
-- publish date is more than 1 month
 - Contract: 6 Months AND not zzp
 - Contract: short contract and not zzp
 - the publisher is #Jobster and the job content is in dutch
