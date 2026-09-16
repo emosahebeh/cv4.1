@@ -1,6 +1,6 @@
 # Ehsan Mosahebeh — 
 
-**Contact:** Arnhem, NL (ready to relocate) | \+31 647553193 | [emosahebeh@gmail.com](mailto:emosahebeh@gmail.com) | linkedin.com/in/ehsan-mosahebeh **Tagline:** E-commerce & Category Management | Digital Marketing & Analytics
+**Contact:** Arnhem, NL (ready to relocate) | \+31 647553193 | [emosahebeh@gmail.com](mailto:emosahebeh@gmail.com) | linkedin.com/in/ehsan-mosahebeh 
 
 Note: this is a reference , not the final CV. 
 
@@ -8,12 +8,12 @@ Note: this is a reference , not the final CV.
 
 ## Skills (full pool — select max 15 per role)
 
-- **Web/dev:** PHP, HTML5, CSS, WordPress plugin programming, JavaScript (beginer), Python, MySQL, API  
+- **Web/dev:** PHP, HTML5, CSS, WordPress plugin programming, Python, MySQL, API  
 - **SEO:** Technical SEO, Schema markup, On-page / Off-page SEO, Keyword research, CRO  
 - **SEO/analytics tools:** Google Analytics, Google Tag Manager, Google Search Console, Screaming Frog, Moz, Semrush, Ahrefs, KWfinder  
 - **Paid/marketing:** Google Ads, SEM, PPC, Performance marketing, Affiliate marketing, Loyalty programs, Retargeting  
 - **Data:** Power BI (reporting & dashboards), Marketing analytics, Data interpretation, KPI monitoring & structured evaluation, Risk & performance analysis  
-- **Ops/process:** Category management, Process automation (PHP-based tooling), Process optimisation, Cross-functional coordination, Structured project execution, Continuous improvement  
+- **Ops/process:** Category management, Process automation (PHP-based OR python base tooling), Process optimisation, Cross-functional coordination, Structured project execution, Continuous improvement  
 - **CAD:** AutoCAD, SketchUp, 3D modeling  
 - **Soft:** Analytical problem solving, Team building
 
