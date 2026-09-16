@@ -80,6 +80,34 @@ I am not sure how to measure exactly how many hours were saved, but without the 
 
 The dynamic pricing idea was tested on the UK landing page during the final month of my internship. Customers could see the additional discount more clearly, especially when they had a discount code that applied on top of an existing 40% discount. Before that, users did not see the final price after applying their partner discount code on the affiliate landing page. Because my internship ended soon after the test, the effect on conversion or revenue was not measured.
 
+1. Forecast model → discount depth recommendations
+"The model forecast ~350 SKUs a week at the target prices product managers set. After a few cycles I could see that for household staples, going from 20% to 30% off barely moved volume, while for personal care it did. I started flagging SKUs where the manager was giving away margin for no extra lift, and they pulled back discount depth on those."
+
+2. Forecast accuracy → understanding the misses
+"Accuracy was around 80% overall but it wasn't evenly spread. New SKUs with no history and items that stocked out mid-campaign were the main misses. So I added a flag for low-history SKUs and started cross-checking forecasts against inventory before the campaign went live, which is how the stock-out forecasting became part of my weekly work."
+
+3. Real profit calculation → campaigns that looked good but weren't
+"Because I calculated weekly profit including purchase price, selling price and rebate, I could see campaigns that had strong sales but thin or negative margin once the rebate timing was taken into account. I raised those with the category lead so the next campaign either had a smaller discount or was tied to a supplier rebate first."
+
+4. Rebate process → catching discrepancies
+"When I consolidated rebate data across the five biggest suppliers, I compared what was negotiated per EAN against what was actually credited. Standardising the workflow made it obvious when a supplier's credit didn't match the agreed terms, and I followed those up." (If he recovered money or found a specific gap, that's the headline.)
+
+5. Stock-out forecasting → reorder decision
+"Before each promotion I took forecast units minus current stock and told the China ops team how many units we'd need and by when. For big campaigns that meant we ordered ahead instead of running out on day two."
+
+6. Competitor tracking → changing our campaign
+"I checked allefolders.nl and competitor sites weekly and put their upcoming promos into one Excel for the category managers. On a few occasions we saw a competitor was about to run the same product, so we either moved our campaign date or adjusted price so we weren't undercut."
+
+7. Power BI dashboard → who was actually performing
+"The dashboard let the team lead see sales by SKU, by product manager and by campaign. It changed the weekly meeting: instead of arguing from memory, the lead could see which manager's campaigns had the best ROI and reallocate landing-page space or promo budget accordingly."
+
+8. Landing pages → product placement
+"I built 8 pages a week with ~350 products each. Over time I could see which product blocks got the sales, so I moved the strongest categories higher up and gave weak ones less space." (Only if he did look at this — but it's an easy and credible add.)
+
+9. Cosmoprof scraper → supplier prioritisation
+"For the Fashion & Beauty team I extracted 2,100 suppliers, then designed a scoring system based on brand type (brand vs. wholesaler vs. retailer), distribution countries and contact completeness, so the sales team contacted the top 50 first. That turned a random outreach list into a prioritised pipeline."
+
+
 ---
 
 ### **NetWebCo**
