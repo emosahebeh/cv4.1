@@ -177,6 +177,39 @@ For one client, I built a tool that updated product prices based on a competitor
 
 For two specific clients, we ran Google Ads campaigns with a monthly budget of around €3,000 per client. We targeted keywords very precisely. The goal was not simply to generate the highest possible traffic; the goal was to achieve the highest conversion rate from ad visitors to customers. Sometimes, because the keywords were very specific, we intentionally limited visitor volume and had to run multiple campaigns.
 
+1. Funnel tracking → UX / conversion recommendations
+"I set up GTM events for add-to-cart, checkout start and purchase, and could see where users dropped. For one client the big leak was between checkout start and completion. Looking at session data, the form was the problem. My recommendation went to the UX designer and the client, and the fix was prioritised over new ad spend because the traffic was already there, it just wasn't converting."
+
+2. Google Ads (€3k/month/client) → optimising for conversion, not clicks
+"We deliberately targeted narrow, high-intent keywords. Each month I compared keywords on cost per conversion, not CTR, paused the ones bringing cheap clicks but no orders, and moved budget to the ones that converted. Traffic volume sometimes went down while orders went up, and I had to explain that trade-off to the client."
+
+3. Campaign quality comparison → Google vs. Meta
+"For two clients I tracked session duration, add-to-cart rate and checkout rate per campaign and per channel. Meta brought more users but Google Ads users converted better, so the recommendation was to use Meta for awareness and put the conversion budget on Google." (Adjust to whatever he actually saw.)
+
+4. Client dashboards → self-serve reporting
+"I built GA dashboards so clients could see their own campaign results, and set naming conventions with the campaign team so channels and campaigns showed up cleanly. That meant monthly meetings were about decisions, not about explaining the numbers."
+
+5. Competitor-price plugin (4,000 products, twice daily) → pricing rule design
+"The client defined the rule in the WordPress panel — X% above or below the competitor's OpenCart store — and the cron job repriced 4,000 products twice a day. The analytical part was helping the client decide the rule: undercutting on everything would have killed margin, so we used different margins for different categories."
+
+6. Attribute cleanup (15,000 products) → catalogue quality
+"Duplicate attributes meant filters didn't work and product pages were inconsistent. The plugin merged or removed them in a month instead of four months of manual work. After the cleanup, filter navigation actually worked, which matters for conversion on a 15,000-product store."
+
+7. SEO audit prioritisation → impact-based roadmap
+"An audit produces a long list. I ranked issues by traffic at risk and effort to fix. For Modiseh (180,000 products) that meant indexation and canonical issues first, because they affected the most pages, then Core Web Vitals, then content."
+
+8. Search Console diagnostics → root cause
+"Several times a client's pages dropped out of the index. I traced the cause — a robots rule, a plugin change, a canonical pointing to the wrong URL — and worked with developers to fix it. Then I tracked recovery in Search Console to confirm."
+
+9. Database cleanup (didnegar.com) → performance and data integrity
+"Their WordPress database was bloated with junk data from plugins. I analysed the patterns, removed the unnecessary data safely with backups, and designed my own plugins to store data more efficiently. The site got faster and the database stayed clean."
+
+10. Keyword research → content and product decisions
+"For e-commerce clients I used keyword research and search intent to decide which products and categories deserved dedicated pages and which blog topics to write. That's assortment and content planning driven by demand data."
+
+11. Client training → enabling decisions
+"I trained clients on Search Console, Analytics and content guidelines so they could read their own data. That reduced dependence on us for basic questions and let meetings focus on strategy."
+
 ---
 
 ### **19kala**
@@ -239,3 +272,32 @@ I have learn C++ in university.
 
 I know Python but I'm better in PHP. they are likely similar.
 
+1. Traffic 30k → 190k → root-cause diagnosis
+"Nobody had audited the site properly. I found 70,000 junk URLs indexed and eating crawl budget, and CSS files blocked from Google, so it couldn't render pages or judge mobile-friendliness. I fixed those first because they affected every page, then schema and site speed. Growth followed within months. I tracked which fix drove which jump in Search Console, so I could tell management what worked and what to invest in next."
+
+2. Product-entry strategy → assortment sequencing
+"We couldn't add everything at once, so I decided which products went live first using search demand, competition and expected margin. High-demand products with weak competition went first. That's where the traffic growth came from on the store side, not only the blog."
+
+3. Price-monitoring tool → sales team acting faster
+"The tool tracked ~100 high-value phones across 5 competitors, three times a day, and emailed the sales team when we lost the best price or when we were the only store with stock. The second case was the more valuable one: when competitors were out of stock, we didn't need to be cheapest, and sales could hold or raise the price."
+
+4. Alert design → reducing noise
+"Early on the alerts were too frequent. I added thresholds so the team only got emails when the price gap mattered, otherwise they'd ignore them. Getting a tool used is as important as building it." (Only if true, but very plausible.)
+
+5. Task-management tool → bottleneck analysis
+"With 1,100 tasks through a 7-stage workflow, I could see where tasks sat longest — usually waiting for SEO approval or keyword files. That let me fix the process, not just the tool. Content output went from 15 to 35 articles and 30 to 35 products per month, and lost-file problems disappeared."
+
+6. Task tool → performance visibility
+"Because everyone's work was visible, managers could see who delivered and where quality issues came from. It changed how the content team was managed — feedback was tied to specific tasks instead of general complaints."
+
+7. Ad plugin + auto-crawler → monetising blog traffic
+"The blog had 60–100k visitors a day but wasn't sending them to the store. My plugin inserted rotating promo blocks in the fifth paragraph, and a crawler pulled 10 sale products from different brands automatically. The point was to turn blog traffic into store traffic without anyone maintaining banners by hand." (If he has any click-through or referral number, add it.)
+
+8. Ranking-drop monitoring → protecting traffic
+"I checked Search Console regularly for keyword drops. The rule was: first confirm whether we caused it — a template change, a redirect, a deleted page — before assuming it was Google. Several drops were traced back to internal changes and reversed quickly."
+
+9. OpenCart ticketing → cross-team execution
+"Technical SEO issues on the store had to go through the OpenCart dev team. I wrote the tickets with the exact problem, the pages affected and the expected fix, then followed through until it was live. That's how I got fixes prioritised in a team that didn't report to me."
+
+10. Content calendar → demand-driven topics
+"Topics were chosen by combining keyword research, search intent and past performance. If a topic cluster was driving traffic, we expanded it; if it wasn't, we stopped. Same logic as a product manager deciding where to invest."
