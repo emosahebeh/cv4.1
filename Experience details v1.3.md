@@ -48,6 +48,33 @@ On average, each landing page included around 350 products from our team and 300
 
 I handled rebate calculations for the five largest suppliers in the team. These rebates were based on weekly promotions for specific EANs and needed to be calculated monthly. I cannot share exact figures because they are confidential company information.
 
+1. Forecast model → discount depth recommendations
+"The model forecast ~350 SKUs a week at the target prices product managers set. After a few cycles I could see that for household staples, going from 20% to 30% off barely moved volume, while for personal care it did. I started flagging SKUs where the manager was giving away margin for no extra lift, and they pulled back discount depth on those."
+
+2. Forecast accuracy → understanding the misses
+"Accuracy was around 80% overall but it wasn't evenly spread. New SKUs with no history and items that stocked out mid-campaign were the main misses. So I added a flag for low-history SKUs and started cross-checking forecasts against inventory before the campaign went live, which is how the stock-out forecasting became part of my weekly work."
+
+3. Real profit calculation → campaigns that looked good but weren't
+"Because I calculated weekly profit including purchase price, selling price and rebate, I could see campaigns that had strong sales but thin or negative margin once the rebate timing was taken into account. I raised those with the category lead so the next campaign either had a smaller discount or was tied to a supplier rebate first."
+
+4. Rebate process → catching discrepancies
+"When I consolidated rebate data across the five biggest suppliers, I compared what was negotiated per EAN against what was actually credited. Standardising the workflow made it obvious when a supplier's credit didn't match the agreed terms, and I followed those up." (If he recovered money or found a specific gap, that's the headline.)
+
+5. Stock-out forecasting → reorder decision
+"Before each promotion I took forecast units minus current stock and told the China ops team how many units we'd need and by when. For big campaigns that meant we ordered ahead instead of running out on day two."
+
+6. Competitor tracking → changing our campaign
+"I checked allefolders.nl and competitor sites weekly and put their upcoming promos into one Excel for the category managers. On a few occasions we saw a competitor was about to run the same product, so we either moved our campaign date or adjusted price so we weren't undercut."
+
+7. Power BI dashboard → who was actually performing
+"The dashboard let the team lead see sales by SKU, by product manager and by campaign. It changed the weekly meeting: instead of arguing from memory, the lead could see which manager's campaigns had the best ROI and reallocate landing-page space or promo budget accordingly."
+
+8. Landing pages → product placement
+"I built 8 pages a week with ~350 products each. Over time I could see which product blocks got the sales, so I moved the strongest categories higher up and gave weak ones less space." (Only if he did look at this — but it's an easy and credible add.)
+
+9. Cosmoprof scraper → supplier prioritisation
+"For the Fashion & Beauty team I extracted 2,100 suppliers, then designed a scoring system based on brand type (brand vs. wholesaler vs. retailer), distribution countries and contact completeness, so the sales team contacted the top 50 first. That turned a random outreach list into a prioritised pipeline."
+
 ---
 
 ### **Versuni**
@@ -80,34 +107,34 @@ I am not sure how to measure exactly how many hours were saved, but without the 
 
 The dynamic pricing idea was tested on the UK landing page during the final month of my internship. Customers could see the additional discount more clearly, especially when they had a discount code that applied on top of an existing 40% discount. Before that, users did not see the final price after applying their partner discount code on the affiliate landing page. Because my internship ended soon after the test, the effect on conversion or revenue was not measured.
 
-1. Forecast model → discount depth recommendations
-"The model forecast ~350 SKUs a week at the target prices product managers set. After a few cycles I could see that for household staples, going from 20% to 30% off barely moved volume, while for personal care it did. I started flagging SKUs where the manager was giving away margin for no extra lift, and they pulled back discount depth on those."
-
-2. Forecast accuracy → understanding the misses
-"Accuracy was around 80% overall but it wasn't evenly spread. New SKUs with no history and items that stocked out mid-campaign were the main misses. So I added a flag for low-history SKUs and started cross-checking forecasts against inventory before the campaign went live, which is how the stock-out forecasting became part of my weekly work."
-
-3. Real profit calculation → campaigns that looked good but weren't
-"Because I calculated weekly profit including purchase price, selling price and rebate, I could see campaigns that had strong sales but thin or negative margin once the rebate timing was taken into account. I raised those with the category lead so the next campaign either had a smaller discount or was tied to a supplier rebate first."
-
-4. Rebate process → catching discrepancies
-"When I consolidated rebate data across the five biggest suppliers, I compared what was negotiated per EAN against what was actually credited. Standardising the workflow made it obvious when a supplier's credit didn't match the agreed terms, and I followed those up." (If he recovered money or found a specific gap, that's the headline.)
-
-5. Stock-out forecasting → reorder decision
-"Before each promotion I took forecast units minus current stock and told the China ops team how many units we'd need and by when. For big campaigns that meant we ordered ahead instead of running out on day two."
-
-6. Competitor tracking → changing our campaign
-"I checked allefolders.nl and competitor sites weekly and put their upcoming promos into one Excel for the category managers. On a few occasions we saw a competitor was about to run the same product, so we either moved our campaign date or adjusted price so we weren't undercut."
-
-7. Power BI dashboard → who was actually performing
-"The dashboard let the team lead see sales by SKU, by product manager and by campaign. It changed the weekly meeting: instead of arguing from memory, the lead could see which manager's campaigns had the best ROI and reallocate landing-page space or promo budget accordingly."
-
-8. Landing pages → product placement
-"I built 8 pages a week with ~350 products each. Over time I could see which product blocks got the sales, so I moved the strongest categories higher up and gave weak ones less space." (Only if he did look at this — but it's an easy and credible add.)
-
-9. Cosmoprof scraper → supplier prioritisation
-"For the Fashion & Beauty team I extracted 2,100 suppliers, then designed a scoring system based on brand type (brand vs. wholesaler vs. retailer), distribution countries and contact completeness, so the sales team contacted the top 50 first. That turned a random outreach list into a prioritised pipeline."
 
 
+1. Monthly partner payouts → attribution accuracy
+"I calculated what Philips owed each of the 17 partners from discount-code usage. When I linked codes to partners in the pivot, I could see codes being used outside the partner's own channel — coupon sites, or customers reusing a code from a previous campaign. I flagged those so we paid on real referrals, not leaked codes, and it fed into which partners we trusted with deeper discounts."
+
+2. +36% YoY revenue → where it actually came from
+"The growth wasn't even across 18 partners. A handful drove most of it, mainly in Germany and the UK. I showed the team which partners were growing, which were flat, and which had high cost per order for little revenue. That went into the discussion on which budgets to increase and which partnerships to scale down."
+
+3. Black Week (19 campaigns) → post-mortem
+"After Black Week I compared each campaign's sales against its cost — voucher value, partner fee, discount depth. Some partners sold a lot but at a very high cost per order, others were smaller but efficient. The post-mortem shaped which partners got priority slots the following season and what discount level we offered them."
+
+4. Power BI dashboard → planning instead of reporting
+"The dashboard showed past and planned campaigns by week, market and partner alongside sales and cost. It moved us from looking backwards to spotting gaps — for example, weeks with no campaign in a key market, or two partners promoting the same product in the same week and cannibalising each other. We used it to spread campaigns out across the calendar."
+
+6. Reporting automation → accuracy, not just speed
+"Monthly reports went from about 3 days to 5 hours. But the bigger value was that each partner got the correct file — before, a mismatch between partner and report could mean paying the wrong amount or sharing another partner's data. The automation removed that risk."
+
+7. Dynamic-price GTM test → test design thinking
+"I built a JavaScript layer in GTM so users arriving via a partner UTM saw the partner discount already applied on top of the 40% sale price. My hypothesis was that showing the final price would lift conversion because users no longer had to trust that the code would work at checkout. The KPI would have been landing-page-to-checkout conversion for UTM traffic vs. control. The internship ended before results were in, but I'd measure it exactly that way."
+
+8. Tracking setup → data quality for attribution
+"I set up event, UTM and conversion tracking in GTM so partner traffic was properly tagged. Before that, part of affiliate traffic was landing in 'direct' or 'other', which understated some partners. Fixing the tagging made the monthly attribution and payout numbers defensible."
+
+9. QBR recommendations
+"In the Q3/Q4 QBRs I presented top SKUs per partner, regional trends and discount effectiveness. A concrete recommendation I made was assigning cheeper product for student-base partners like Studentbeans and more expensive one exclusively for bank partenrs like ING. Then we could make a better plan to manage our discounted assortment."
+
+10. Partner communication → intel into planning
+"Talking to partners directly about their seasonal calendars meant I could tell country sales managers weeks ahead which promos were coming, so stock and pricing were ready instead of reacting."
 ---
 
 ### **NetWebCo**
