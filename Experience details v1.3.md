@@ -20,6 +20,10 @@ I was also the main contact point with the marketing team. When any member of ou
 
 I managed and built special campaign landing pages for different marketing promotions, from implementation and design to weekly product updates.
 
+من ابزاری ساختم به کمک هوش مصنوعی claude که از لیست فروشنده های موجود در سایت cosmoprof.com خروجی بگیره و تمام اطلاعات از جمله ادرس وبسایت، ادرس لیندکدین و تماس و شهر و کشور مبدا برند رو خروجی بگیره از سایت کازموپروف. مشکل اصلی ۲۱۰۰ فروشنده در سایت وجود داشت که حتما نیاز به لاگین در سایت بود و نمیشد با پایتون خروجی گرفت. من به کمک کلاد یک اکستنشن برای کروم ساختم که اینکارو انجام بده و خروجی اکسل در اختیار ما قرار بده. برای تیم فشن اند بیوتی اینکارو کردم چون نیاز داشتند به این مورد. 
+
+مرتب کردن و استخراج داده های بیشتر مانند شماره تماس یا ایمیل، کشور های توزیع کننده کالا، نوع فروش (خرده فروش، عمده، برند) و طراحی سیستم امتیاز دهی که باعث میشد تیم فروش بتونن با ۵۰ تا تامین کننده برتر تماس بگیرند اول و بعد سراغ ۵۰ تای بعدی برن تا تایم ذخیره کنند. 
+
 #### **Additional Details**
 
 Each week, I prepared performance reports showing which SKUs performed best, which campaigns had the highest ROI, and which product managers delivered the strongest results.
@@ -93,6 +97,10 @@ Using Google Analytics and Google Tag Manager, I built different tracking setups
 I also presented client performance after advertising campaigns. These reports included KPIs such as incoming users, campaign conversion rate, and user behavior on the website.
 
 One of our older clients had a WordPress e-commerce website. I built a plugin for them that corrected products with duplicate attributes. This was a complex task because the website had 15,000 products, each with an average of 10 attributes, in the camera and photography equipment industry. Duplicate attributes needed to be removed or merged. This plugin was designed and implemented in one month and effectively replaced around four months of work by two full-time employees, without human error.
+
+یکی از کلاینت هامون به اسم didnegar.com وبسایتی داشت که SQL وردپرسی اون توسط پلاگین های مختلف دارای دیتا های غیرضوری و حجیم بود. من الگوی دیتا های غیر ضروری رو در دیتابیس اونا آنالیز میکردم و مطمپن میشدم با داشتن بکاپ مناسب، اطلاعات صروری سایت از دست نرود. با تحلیل دیتابیس روش های جایگزین برای ذخیره سازی دیتا در پلاگین هایی که خودم ساخته بودم ایجاد کردم تا بیشترین یکپارچگی و کمترین ردیف ممکن در دیتابیس ساخته شود.
+
+من برای دو تا از کلاینت هامون تبلیغات توی گوگل ادوردز و متا در اینستاگرام رو تحلیل میکردم. یک سری ترکر در گوگل تگ منیجر ست میکردم تا ببینم رفتار یا کیفیت کاربر ها بعد از ورود به سایت در هر کمپین چقدره. مثلا چک میکردم session duration, add to cart button click, checkout filling conversion rate.  و این دیتا هارو با گوگل انالیتیکس ستاپ میکردم که بتونم در انالیتیکس نتیجه رو مشاهده کنم. بعد دشبرد میساختم برای کلاینت ها که بتونن خودشون مشاهده کنند ننتیجه تبلیغاتشون رو. با تیم اجرا کننده کمپین ها هماهنگ میکردم که چطوری نام کذاری کنند کمپین هارو تا نمایش درست تری داشته باشیم توی انالیتیکس.
 
 #### **Additional Details**
 
