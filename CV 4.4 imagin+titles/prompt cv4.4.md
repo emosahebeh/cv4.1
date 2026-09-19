@@ -36,7 +36,8 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 16. regarding your text that you return in the chat box for any topic, always return the (job ID + jobtitle ) by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
 18. all the red texts must be black after optimization.
 19. if you want to double check something with me, or have question, you can always ask them before making the CV. I might OR might not respond to them but if I do, it will help you make a more accurate one. always ask max 3 questions. then when you get my respons, always give me an "add-on" texts that I can add to my next prompt that introduce me bwetter for the next times.
-20. if you want to use how much experience I have, you must find the total number based on the final CV you make. always double check it at the end. also the same number must be in the cover letter if you want to use the number. these two must not contradict eachother. 
+20. if you want to use how much experience I have, you must find the total number based on the final CV you make. always double check it at the end. also the same number must be in the cover letter if you want to use the number. these two must not contradict eachother.
+21. به صورت کلی اگر مهندسی عمران من بیربط است به کاری که داری اپلای میکنی، نیازی نیست در اینتروداکشن یا کاور لتر حرفی بزنی از اون. صرفا اگر مرتبط بود یا میخواستی به صورت داستانی منو معرفی کنی میتونی بگی که من ارزش و اهمیت اعداد رو در رشته مهندسی خودم کامل متوجه شدم. یا میتونی بگی من توی یکی از کلاس های عمران که C++ بود متوجه شدم چفدر علاقه به اتوماسیون ها و تحلیل دیتا ها با کامپیوتر دارم.
 
 ## CV title
 you are allowed only to use these data for the final title:  combination of these options that fits the best is possible. only one line is fine:
