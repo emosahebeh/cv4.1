@@ -89,6 +89,9 @@ you are allowed only to use these data for the final title:  combination of thes
 - always be spesific
 - always return 5 of the top list of the requirements have been mentioned in the JD.
 
+  ## selected projects
+  _ always pick 3 to 5 most relevant projects to the role.
+
 ### Cover Letter Prompt — Ehsan Mosahebeh
 
 Structure (one page, ~200–260 words, three paragraphs)
