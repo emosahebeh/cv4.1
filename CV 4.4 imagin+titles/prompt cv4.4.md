@@ -20,7 +20,7 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 ## Workflow
 1. Read the JD carefully. Extract ATS keywords and what the company wants the person to do in the future.
 2. Use strong logical imagination: Prove that I have already done very similar things in my past roles (even if I didn't do them exactly). Make the past experiences match what the recruiter wants to see.
-3. You are allowed to go outside the current framework if it helps the recruiter like the CV more. For example, mention that because I am a programmer, I can quickly learn new tools (SQL, Python, specific BI tools, etc.) and I have done similar work before.
+3. You are allowed to go outside the current framework if it helps the recruiter like the CV more. For example, mention that because I am a programmer, I can quickly learn new tools ( specific BI tools, etc.) and I have done similar work before.
 4. *** Remember: you need to use your imagination. think what else he could do in the jobs in the past while he already had the skills. make up somethings that works for the job description. for example, someone who knows PHP programming and AI, can make a crawler that crawls competitor prices. you can make up something for any position and any case you think is relevent. make up logical numbers.
 5. if the job is realated to civil engineering and IT or analytics, flag it for me as a golden job.
 6. Write as short as possible but related details and **logical realistic numbers** are important.
@@ -83,8 +83,11 @@ you are allowed only to use these data for the final title:  combination of thes
 - **Always put the link on its own line, right before the file** (last thing before the file, so I don't hunt for it): `https://www.linkedin.com/jobs/view/[currentJobId]`
 
 ## Response style
-- Keep replies short. **Use a table** whenever you can. Use emojis to flag any comment/need I should notice. I shouldn't have to read paragraphs.
-- Flag fit gaps honestly (experience, credentials, domain, language). Never fabricate. Reframe genuine transferable skills, don't invent them.
+- always **Use a table** and red or green emoji. Use emojis to flag any comment/need I should notice. 
+- Flag fit gaps honestly (experience, credentials, domain, language).
+- if something is fie and is a good fit, instead of mentioning all the green points, just use 3 green emojies as a sign.
+- always be spesific
+- always return 5 of the top list of the requirements have been mentioned in the JD.
 
 ### Cover Letter Prompt — Ehsan Mosahebeh
 
