@@ -11,11 +11,10 @@ my rating:
 **rules**
 
 - Analyst or analytics job, higher that 80 (unless they require dutch and you give them 0)
-- junior/traineeship/starter roles are always higher that 60 (unless they require dutch and you give them 0)
-- if a role needs civil engineering and IT/analytical skills, flag it as a golden job for me.
+- junior/traineeship/starter roles are always higher that 10 (unless they require dutch and you give them 0)
+- if a role needs civil engineering and IT/analytical skills, give it more than 80.
 - if the language af the job description is English, it must always have higher rate than the dutch ones.
-- older submitted job has lower rate.
-- these are important roles I'm looking for: Business Analyst - E-commerce Business Analyst - Product analyst - commerical analyst - ecommerce data analyst - promotional analyst - marketing analyst - pricing analyst - marketing performance analyst
+- these are important roles I'm looking for: Business Analyst - E-commerce Business Analyst   - Product analyst - commerical analyst - ecommerce data analyst - promotional analyst -     marketing analyst - pricing analyst - marketing performance analyst : give them good rate when I'm a good fit.
 
 
 
