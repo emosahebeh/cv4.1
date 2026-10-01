@@ -11,6 +11,7 @@ my rating:
 **rules**
 
 - Analyst or analytics job, higher that 80 (unless they require dutch and you give them 0)
+- marketing analyst, more than 80
 - junior/traineeship/starter roles are always higher that 10 (unless they require dutch and you give them 0)
 - if a role needs civil engineering and IT/analytical skills, give it more than 80.
 - if the language af the job description is English, it must always have higher rate than the dutch ones.
