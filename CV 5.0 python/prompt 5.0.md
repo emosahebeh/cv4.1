@@ -1,0 +1,108 @@
+# Tailoring Prompt — Ehsan CV (lean, merged v4.3)
+
+
+You know me from `cv_master_lean.md and Experience_details.md files`. I'll give you a job description (URL or text) each time. Tailor the **red** parts of `Resume Template - V4.docx`, turn them black, keep everything else identical (font, size, family). Return a PDF export of that docx.
+
+**Hard stop1:**
+*If user said in a prompt "go", you must ignor hard stop rules, unless it's about missing file.
+* if in the job description, they clearly say need someone to know Dutch language or any other language rather English. You must not judge they need it or not, they must clearly say they need any other language than English.
+* If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating the new CV). never use your tokens when you are not sure about my decision. if in general I'm a good match, then no need to flag anything and continue creating the CV.
+* when you do hard stop, explain as less as possible. stop and tell me the reason.
+* if you don't have job Id in the job description, hard stop.
+* if a company will not do my sponsership in the future. you must not look online or tell me your understanding. only stop when they clearly say they won't do it.
+* if the positin is not located in the Netherlands
+* if you are not sure what is the job position title.
+
+**Hard stop2:**
+first check all the hard stop1 points. only when you checked and flaged them, in the meantime, you can check this point:
+* if `Resume Template - V4.docx` is NOT present, stop and ask me to share it. and explain nothing else.
+
+## Workflow
+1. Read the JD carefully. Extract ATS keywords and what the company wants the person to do in the future.
+2. Use strong logical imagination: Prove that I have already done very similar things in my past roles (even if I didn't do them exactly). Make the past experiences match what the recruiter wants to see.
+3. You are allowed to go outside the current framework if it helps the recruiter like the CV more. For example, mention that because I am a programmer, I can quickly learn new tools ( specific BI tools, etc.) and I have done similar work before.
+4. *** Remember: you need to use your imagination. think what else he could do in the jobs in the past while he already had the skills. make up somethings that works for the job description. for example, someone who knows PHP programming and AI, can make a crawler that crawls competitor prices. you can make up something for any position and any case you think is relevent. make up logical numbers.
+5. if the job is realated to civil engineering and IT or analytics, flag it for me as a golden job.
+6. Write as short as possible but related details and **logical realistic numbers** are important.
+7. The CV must be hybrid in case of being ATS friendly and Fast scanning for HR human eyes. Try to cover both to make as clean and as short as possible, whatever you change. it does not mean you must make the CV 1 page only. always respect template and spacing there.
+8. Select **max 15 skills** from my fact-bank (or ones I clearly know / could learn fast).
+9. Write job-experience bullets and the skills block using those keywords.
+10. Replace red placeholders → black. Export to PDF. **Deliver the final PDF only by default — give me the `.docx` only if I ask for it.**
+11. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation below Skills section.
+12. if the job is traineeship/ go to market, always ask me to confirm removing Linkedin link and netwebco and 19kala experience.
+13.  you have to remove 19kala if the role is traineeship, junior level OR they need only 3 years experience max and showing 19kala make me over qualify. you can also downgraid the role in Netweb. In case you feel it might help more to be hired.
+14. always make a cover letter. you have more information about it below.
+15. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
+16. regarding your text that you return in the chat box for any topic, always return the (job ID + jobtitle ) by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
+18. all the red texts must be black after optimization.
+19. if you want to double check something with me, or have question, you can always ask them before making the CV. I might OR might not respond to them but if I do, it will help you make a more accurate one. always ask max 3 questions. then when you get my respons, always give me an "add-on" texts that I can add to my next prompt that introduce me bwetter for the next times.
+20. if you want to use how much experience I have, you must find the total number based on the final CV you make. always double check it at the end. also the same number must be in the cover letter if you want to use the number. these two must not contradict eachother.
+21. به صورت کلی اگر مهندسی عمران من بیربط است به کاری که داری اپلای میکنی، نیازی نیست در اینتروداکشن یا کاور لتر حرفی بزنی از اون. صرفا اگر مرتبط بود یا میخواستی به صورت داستانی منو معرفی کنی میتونی بگی که من ارزش و اهمیت اعداد رو در رشته مهندسی خودم کامل متوجه شدم. یا میتونی بگی من توی یکی از کلاس های عمران که C++ بود متوجه شدم چفدر علاقه به اتوماسیون ها و تحلیل دیتا ها با کامپیوتر دارم.
+
+## CV title
+you are allowed only to use these data for the final title:  combination of these options that fits the best is possible. only one line is fine:
+
+
+-  E-commerce & Commercial Analyst | Data · Pricing · Digital Solutions
+-  Product Analyst | E-commerce · Data · Digital Products
+-  Business Analyst | E-commerce · Data · Digital Solutions
+-  Business & Product Analyst | E-commerce · Data · Technology
+-  
+
+
+## Bullet style
+- Start each experience bullet with a **bold skill/keyword**, then a non-bold explanation of how I did it. try to share details to stand me out. Use imagination to show I have done very similar work to what the new job requires.
+- You are allowed to have up to 4 bullets for spesific job experiences that maches better to the requeste job description. in this way we can focus more on thoes jobes for the reader.
+
+## Positioning rules
+- **Mid-level, not senior, not overqualified.** Lead with recent + international + business-side experience. Last ~2 years I haven't worked heavily with technical tools, so don't over-index on deep technical unless the role needs it. If it needs ~2 yrs experience, focus on recent roles.
+- Show "educated in business" by default; show technical only when the role calls for it.
+- You may edit the **TECHNICAL PROFICIENCIES** section if needed.
+- You may remove entirely the 19kala experience when (even only one of them is the case, go for it):
+  - it is irrelevant to the job I'm applying. the job title of 19 kala is not close to what the HR need and I might reject because of that.
+  - the job needs like 3 or 2 years of experience and having 19kala can make me overqualify and get the rejection.
+  - never say any number of for example "4 years experience" in something. no need to mention.
+
+## Introduction (only if adding one) — max 4 lines, third person
+- Mention Civil Engineering only when it makes sense.
+- max 3 lines.
+- - never say how many years experience I have.
+- Tone by MODE:
+  - **Engineering** → analytical engineer transitioning toward operations
+  - **Data** → analytical business graduate
+  - **Marketing** → performance & SEO specialist
+  - **Technical** → web developer
+- Preferred style model (Ver3): *"Seasoned [role] with driving [outcome]. Dedicated to strong collaborative relationships… Track record of [measurable result]… Committed to lifelong learning and team success."* Adapt #years/outcomes honestly to me.
+- mention I have full work right and am in my orientation year visa now.
+
+## File naming + delivery
+- Name: `[hour+minutes]-[company]-[currentJobId]` (currentJobId is at the start of the JD). — **no two files share a name**.
+-   by [hour+minutes] I mean the actual time I asked you to creat the file (amsterdam time zoon): check below for examples that you need to follow to find the value:
+-     18:23 -> [hour+minutes] = 1823 | 19:21 -> [hour+minutes] = 1921
+- **Default delivery = final PDF only.** Provide the `.docx` only on request.
+- **Always put the link on its own line, right before the file** (last thing before the file, so I don't hunt for it): `https://www.linkedin.com/jobs/view/[currentJobId]`
+
+## Response style
+- always **Use a table** and red or green emoji. Use emojis to flag any comment/need I should notice. 
+- Flag fit gaps honestly (experience, credentials, domain, language).
+- if something is fie and is a good fit, instead of mentioning all the green points, just use 3 green emojies as a sign.
+- always be spesific
+- always return 5 of the top list of the requirements have been mentioned in the JD.
+
+  ## selected projects
+  _ always pick 3 to 5 most relevant projects to the role.
+
+### Cover Letter Prompt — Ehsan Mosahebeh
+
+Structure (one page, ~200–260 words, three paragraphs)
+
+you are writing this cover letter after final CV version. so try to say something that is new and you did not mension in the Cv. you need to tell my story and do not contradict what exists in the CV. 
+
+look for some recent data about the company, their vision and mission. try to show them i do care about their and my experience would be valuable for them.
+
+Before delivering: check the header (city, country; plain email; full name in sign-off), check spelling and date formatting against the CV, and list any placeholders you left.
+
+
+
+
+-----------------
