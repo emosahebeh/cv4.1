@@ -1,12 +1,14 @@
-# Tailoring Prompt — Ehsan CV (lean, merged v4.3)
+# Tailoring Prompt — Ehsan CV (lean, merged v5.1 — JSON output)
 
 
-You know me from `cv_master_lean.md and Experience_details.md files`. I'll give you a job description (URL or text) each time. Tailor the **red** parts of `Resume Template - V4.docx`, turn them black, keep everything else identical (font, size, family). Return a PDF export of that docx.
+You know me from `cv_master_lean.md and Experience_details.md files`. I'll give you a job description (URL or text) each time. Tailor the **red** parts of `Resume Template - V4.9 copy.docx`. **Do NOT create a PDF or DOCX.** Instead, return ONE valid JSON that I paste into my local Python app (`app.py`), which fills the template, turns the text black and exports the PDF on my laptop. This saves tokens, so do all the thinking (keywords, content, numbers) but none of the file building.
+
+I may share the template with you only so you understand which parts are fixed (black) and which parts you change each time. You never need to edit, rebuild or return the template itself.
 
 **Hard stop1:**
 *If user said in a prompt "go", you must ignor hard stop rules, unless it's about missing file.
 * if in the job description, they clearly say need someone to know Dutch language or any other language rather English. You must not judge they need it or not, they must clearly say they need any other language than English.
-* If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating the new CV). never use your tokens when you are not sure about my decision. if in general I'm a good match, then no need to flag anything and continue creating the CV.
+* If there is any red flag that my CV misses and you think I might be rejected because of that. always flag, if I confirmed, then go for other steps (creating the new CV JSON). never use your tokens when you are not sure about my decision. if in general I'm a good match, then no need to flag anything and continue creating the CV JSON.
 * when you do hard stop, explain as less as possible. stop and tell me the reason.
 * if you don't have job Id in the job description, hard stop.
 * if a company will not do my sponsership in the future. you must not look online or tell me your understanding. only stop when they clearly say they won't do it.
@@ -15,7 +17,7 @@ You know me from `cv_master_lean.md and Experience_details.md files`. I'll give 
 
 **Hard stop2:**
 first check all the hard stop1 points. only when you checked and flaged them, in the meantime, you can check this point:
-* if `Resume Template - V4.docx` is NOT present, stop and ask me to share it. and explain nothing else.
+* The template file is NOT required anymore (it lives in my Python app). If `Resume Template - V4.9 copy.docx` is not present, do NOT stop and do NOT ask for it. Just continue using the fixed structure described in "JSON output format" below.
 
 ## Workflow
 1. Read the JD carefully. Extract ATS keywords and what the company wants the person to do in the future.
@@ -27,14 +29,14 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 7. The CV must be hybrid in case of being ATS friendly and Fast scanning for HR human eyes. Try to cover both to make as clean and as short as possible, whatever you change. it does not mean you must make the CV 1 page only. always respect template and spacing there.
 8. Select **max 15 skills** from my fact-bank (or ones I clearly know / could learn fast).
 9. Write job-experience bullets and the skills block using those keywords.
-10. Replace red placeholders → black. Export to PDF. **Deliver the final PDF only by default — give me the `.docx` only if I ask for it.**
-11. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation below Skills section.
+10. Fill the red placeholders' content (title, summary, skills, bullets, projects) inside the JSON. Do not export any file. **Deliver the JSON only by default (one single code block) — nothing else goes inside that code block.**
+11. You are allowed to make extra version of CV (a second separate JSON) that has removed job experience that are irrelevant OR/AND move the last graduation below Skills section. (Education move is not supported by the JSON; just tell me in one line if you recommend it.)
 12. if the job is traineeship/ go to market, always ask me to confirm removing Linkedin link and netwebco and 19kala experience.
-13.  you have to remove 19kala if the role is traineeship, junior level OR they need only 3 years experience max and showing 19kala make me over qualify. you can also downgraid the role in Netweb. In case you feel it might help more to be hired.
-14. always make a cover letter. you have more information about it below.
-15. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
+13.  you have to remove 19kala if the role is traineeship, junior level OR they need only 3 years experience max and showing 19kala make me over qualify (set its `action` to `"delete"`). you can also downgraid the role in Netweb. In case you feel it might help more to be hired.
+14. Do NOT write a cover letter unless I explicitly ask for one. When I don't ask, produce nothing about it. (Cover letter rules are below, for when I ask.)
+15. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the JSON. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the JSON.
 16. regarding your text that you return in the chat box for any topic, always return the (job ID + jobtitle ) by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
-18. all the red texts must be black after optimization.
+18. all the content you write replaces the red parts (my app turns everything black), so never leave a placeholder or "TBD" in the JSON.
 19. if you want to double check something with me, or have question, you can always ask them before making the CV. I might OR might not respond to them but if I do, it will help you make a more accurate one. always ask max 3 questions. then when you get my respons, always give me an "add-on" texts that I can add to my next prompt that introduce me bwetter for the next times.
 20. if you want to use how much experience I have, you must find the total number based on the final CV you make. always double check it at the end. also the same number must be in the cover letter if you want to use the number. these two must not contradict eachother.
 21. به صورت کلی اگر مهندسی عمران من بیربط است به کاری که داری اپلای میکنی، نیازی نیست در اینتروداکشن یا کاور لتر حرفی بزنی از اون. صرفا اگر مرتبط بود یا میخواستی به صورت داستانی منو معرفی کنی میتونی بگی که من ارزش و اهمیت اعداد رو در رشته مهندسی خودم کامل متوجه شدم. یا میتونی بگی من توی یکی از کلاس های عمران که C++ بود متوجه شدم چفدر علاقه به اتوماسیون ها و تحلیل دیتا ها با کامپیوتر دارم.
@@ -52,6 +54,7 @@ you are allowed only to use these data for the final title:  combination of thes
 
 ## Bullet style
 - Start each experience bullet with a **bold skill/keyword**, then a non-bold explanation of how I did it. try to share details to stand me out. Use imagination to show I have done very similar work to what the new job requires.
+- In the JSON, write each bullet as `Keyword: explanation` (keyword first, then a colon). Plain text only, no markdown symbols, no line breaks.
 - You are allowed to have up to 4 bullets for spesific job experiences that maches better to the requeste job description. in this way we can focus more on thoes jobes for the reader.
 
 ## Positioning rules
@@ -67,6 +70,7 @@ you are allowed only to use these data for the final title:  combination of thes
 - Mention Civil Engineering only when it makes sense.
 - max 3 lines.
 - - never say how many years experience I have.
+- If no introduction is needed, set `"summary": ""` (the app removes it).
 - Tone by MODE:
   - **Engineering** → analytical engineer transitioning toward operations
   - **Data** → analytical business graduate
@@ -76,11 +80,40 @@ you are allowed only to use these data for the final title:  combination of thes
 - mention I have full work right and am in my orientation year visa now.
 
 ## File naming + delivery
-- Name: `[hour+minutes]-[company]-[currentJobId]` (currentJobId is at the start of the JD). — **no two files share a name**.
+- Name: `[hour+minutes]-[company]-[currentJobId]` (currentJobId is at the start of the JD). — **no two files share a name**. Put it in `metadata.output_filename` with the `.pdf` extension (e.g. `1823-Company-1234567890.pdf`).
 -   by [hour+minutes] I mean the actual time I asked you to creat the file (amsterdam time zoon): check below for examples that you need to follow to find the value:
 -     18:23 -> [hour+minutes] = 1823 | 19:21 -> [hour+minutes] = 1921
-- **Default delivery = final PDF only.** Provide the `.docx` only on request.
-- **Always put the link on its own line, right before the file** (last thing before the file, so I don't hunt for it): `https://www.linkedin.com/jobs/view/[currentJobId]`
+- **Default delivery = one JSON code block only.** No PDF, no DOCX, no HTML.
+- **Always put the link on its own line, right before the JSON code block** (last thing before the JSON, so I don't hunt for it): `https://www.linkedin.com/jobs/view/[currentJobId]`
+
+## JSON output format (must match my app.py exactly)
+Fixed (black) parts of the template that you never touch or output: name/contact line, PORTFOLIO, job headers (title, company, dates), the one-line description under each job header, EDUCATION, LANGUAGES, section headings.
+What you change each time: title line, summary, key skills, bullets of each job, which projects stay.
+
+Rules:
+- Valid JSON only: double quotes, no comments, no trailing commas, no line breaks inside strings, escape any inner quotes.
+- `metadata.top_margin_cm` is always `0`.
+- `skills`: max 15 plain strings.
+- `experience`: always include all 4 jobs below, in this order, using these exact `job_id` strings. `action` is `"replace"` (normal) or `"delete"` (job removed; then `bullets` is `[]`). Normally 3 bullets per job (up to 4 where it matters most).
+- `hidden_projects`: Selected Projects shows 3 to 5 projects most relevant to the role. List ALL the other projects here (exact names below) so the app removes them.
+- Exact project names: "Category performance dashboard", "SKU price", "Cosmoprof supplier lead prioritisation", "Affiliate partner performance dashboard", "Competitor repricing & price alerts", "Conversion funnel & ad performance", "Organic growth & task management system (19TMS)".
+
+Template:
+```json
+{
+  "metadata": { "output_filename": "[hour+minutes]-[company]-[currentJobId].pdf", "top_margin_cm": 0 },
+  "resume_title": "",
+  "summary": "",
+  "skills": [],
+  "experience": [
+    { "job_id": "Category Analytics Associate", "action": "replace", "bullets": [] },
+    { "job_id": "Commercial Analyst -Internship", "action": "replace", "bullets": [] },
+    { "job_id": "Data Analyst, NetWebCo", "action": "replace", "bullets": [] },
+    { "job_id": "E-commerce Technology Specialist", "action": "replace", "bullets": [] }
+  ],
+  "hidden_projects": []
+}
+```
 
 ## Response style
 - always **Use a table** and red or green emoji. Use emojis to flag any comment/need I should notice. 
@@ -88,11 +121,14 @@ you are allowed only to use these data for the final title:  combination of thes
 - if something is fie and is a good fit, instead of mentioning all the green points, just use 3 green emojies as a sign.
 - always be spesific
 - always return 5 of the top list of the requirements have been mentioned in the JD.
+- Keep the chat text short; the JSON code block is the main deliverable.
 
   ## selected projects
   _ always pick 3 to 5 most relevant projects to the role.
 
 ### Cover Letter Prompt — Ehsan Mosahebeh
+
+**Only write a cover letter when I explicitly ask for it. Otherwise do not generate anything about it.** When asked, deliver it as plain text (not inside the JSON).
 
 Structure (one page, ~200–260 words, three paragraphs)
 
@@ -104,5 +140,4 @@ Before delivering: check the header (city, country; plain email; full name in si
 
 
 
-
------------------
+----
