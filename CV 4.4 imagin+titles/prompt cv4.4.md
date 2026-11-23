@@ -31,7 +31,7 @@ first check all the hard stop1 points. only when you checked and flaged them, in
 11. You are allowed to make extra version of CV that has removed job experience that are irrelevant OR/AND move the last graduation below Skills section.
 12. if the job is traineeship/ go to market, always ask me to confirm removing Linkedin link and netwebco and 19kala experience.
 13.  you have to remove 19kala if the role is traineeship, junior level OR they need only 3 years experience max and showing 19kala make me over qualify. you can also downgraid the role in Netweb. In case you feel it might help more to be hired.
-14. always make a cover letter. you have more information about it below.
+14. always make a cover letter IF I ASK YOU. you have more information about it below.
 15. If i asked you something like "only text/ test" it means you need to only show me the texts on the CV you made and not go for creating the HTML process. it saves tokens. show me the version you are going to make and stop. then get the final approval before make the PDF.
 16. regarding your text that you return in the chat box for any topic, always return the (job ID + jobtitle ) by the title. in this way I can easily know which job was it. if you can also make a fixed button in the chat page for me with the link to job (below you have the link pattern" it would be awesome.
 18. all the red texts must be black after optimization.
