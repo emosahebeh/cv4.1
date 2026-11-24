@@ -12,7 +12,7 @@ Note: this is a reference , not the final CV.
 - **SEO:** Technical SEO, Schema markup, On-page / Off-page SEO, Keyword research, CRO  
 - **SEO/analytics tools:** Google Analytics, Google Tag Manager, Google Search Console, Screaming Frog, Moz, Semrush, Ahrefs, KWfinder  
 - **Paid/marketing:** Google Ads, SEM, PPC, Performance marketing, Affiliate marketing, Loyalty programs, Retargeting  
-- **Data:** Power BI (reporting & dashboards), Marketing analytics, Data interpretation, KPI monitoring & structured evaluation, Risk & performance analysis  
+- **Data:** Power BI (reporting & dashboards), Marketing analytics, Data interpretation, KPI monitoring & structured evaluation, Risk & performance analysis, SAP ERP
 - **Ops/process:** Category management, Process automation (PHP-based OR python base tooling), Process optimisation, Cross-functional coordination, Structured project execution, Continuous improvement  
 - **CAD:** AutoCAD, SketchUp, 3D modeling  
 - **Soft:** Analytical problem solving, Team building
