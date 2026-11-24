@@ -135,6 +135,8 @@ The dynamic pricing idea was tested on the UK landing page during the final mont
 
 10. Partner communication → intel into planning
 "Talking to partners directly about their seasonal calendars meant I could tell country sales managers weeks ahead which promos were coming, so stock and pricing were ready instead of reacting."
+
+11. ما اونجا از SAP استفاده میکردیم برای مشاهده نتایج فروش و خروجی گرفتن از کوپن های استفاده شده و جزییات محصولات در وبسایت.
 ---
 
 ### **NetWebCo**
